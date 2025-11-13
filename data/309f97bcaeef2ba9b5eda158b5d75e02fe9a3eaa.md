@@ -1,0 +1,109 @@
+# Page snapshot
+
+```yaml
+- main [ref=e2]:
+  - generic [ref=e10]:
+    - generic [ref=e13]:
+      - generic [ref=e14]: "| des Nazireners"
+      - generic [ref=e15]: "| sein"
+      - generic [ref=e16]: "| ₰"
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - generic [ref=e21]: ⨯
+          - generic [ref=e22]: "246"
+          - text: Mann mit blauen Augen sein d
+          - deletion [ref=e24]: ürfe,
+          - text: mit Haken-
+          - text: kreuzen am Rock
+          - deletion [ref=e26]: ","
+          - text: und daß die ihm treuen Apostel
+          - text: arisch-germanischen Typus haben müssen, während
+          - text: der Judas »als prononziert jüdischer Typ« zu
+          - text: geben ist
+        - text: "| eine Reform, deren Mühe sich der"
+        - generic [ref=e27]:
+          - text: Propa-
+          - text: gandaminister
+        - text: mit Selbstaufopferung unterzog. Die
+        - text: Möglichkeit
+        - deletion [ref=e29]: ","
+        - text: das Leben
+        - deletion [ref=e31]: Hitlers
+        - text: darzustellen, wird
+        - text: einer Zeit vorbehalten sein, wo entsprechende
+        - text: Werbung für ein besseres Verständnis
+        - deletion [ref=e33]: im Ausland
+        - text: gesorgt haben wird, wenn es nicht von selbst
+        - deletion [ref=e35]: ein -
+        - text: eintreten sollte, gemäß Goebbels’ Überzeugung
+        - generic [ref=e38]:
+          - text: daß das, was wir heute machen, bahnbrechend für die ganze Kultur-
+          - text: "welt ist⁠ ⁠: für die nationalsozialistische Welt. Wenn sie auch heute noch"
+          - text: nicht besteht, so wird sie in zehn Jahren u
+          - deletion [ref=e40]: u
+          - text: sere Gesetze abschreiben.
+          - generic [ref=e41]:
+            - generic [ref=e43]: Was wir heute tun,
+            - text: wird in zehn Jahren
+            - text: vorbildlich
+            - text: sein für die ganze Welt.
+          - text: Das was wir heute tun, wird
+          - generic [ref=e44]:
+            - text: für
+            - generic [ref=e45]: ganz Europa maßgebend sein.
+        - text: Es gelte jetzt nur noch ein System auszubauen, das
+        - text: künftige Jahrhunderte überdauert und eine Organi-
+        - text: sation zu schaffen, die selbst dann noch hält, wenn
+        - text: es einmal »an Talenten fehlen sollte«. Wir haben
+        - text: für die zu sorgen, die da kommen werden, und die
+        - text: Repertoireänderung für Oberammergau wird sich
+        - text: von selbst ergeben, denn Kube (Pergamon) hat es
+        - generic [ref=e46]: "gesagt⁠ ⁠:"
+        - generic [ref=e50]: Adolf Hitlers Mission ist eine göttliche.
+      - generic [ref=e51]:
+        - text: Und wäre sie denn ohne |Leidensweg vorstell-
+        - text: bar, den so viele um des Zieles willen beschreiten
+        - text: mußten⁠ ⁠? Hat man nicht von Märtyrern gelesen,
+        - text: Kriegsteilnehmern,
+        - generic [ref=e52]:
+          - text: manch einem, dem es erst jetzt
+          - text: widerfuhr, daß
+          - deletion [ref=e54]: der
+          - text: Körper |vom Rücken bis zu den
+          - text: Knie
+          - deletion [ref=e56]: h
+          - text: kehlen eine einzige blutige Masse war|
+        - text: ⁠ ⁠?
+        - generic [ref=e57]:
+          - text: Damit
+          - text: er seiner Sendung bewußt bleibe, überschüttete man
+          - generic [ref=e58]: ihn mit kaltem Wasser
+          - generic [ref=e61]: und zwickte hierauf mit Zangen Fleisch aus seiner Brust.
+        - generic [ref=e62]:
+          - text: Und dann nahm der
+          - generic [ref=e63]:
+            - deletion [ref=e65]: Wärter
+            - text: des Glaubens
+          - text: seine
+          - generic [ref=e66]: brennende Zigarre aus der Schnauze
+          - generic [ref=e69]: uud sengte dem Gefesselten einen Kranz rund um den Hals.
+          - generic [ref=e70]: "Und sprach die Worte⁠ ⁠:"
+    - generic [ref=e71]:
+      - generic [ref=e72]:
+        - generic [ref=e73]: "| arf,"
+        - generic [ref=e74]:
+          - text: "|"
+          - deletion [ref=e76]: ¿¿
+          - text: «
+        - generic [ref=e77]: "| ,"
+        - generic [ref=e78]: "| aber,"
+        - generic [ref=e79]: "| der Außenwelt"
+        - generic [ref=e80]: "| ₰"
+        - generic [ref=e81]: "| n"
+        - generic [ref=e82]: "| den"
+        - generic [ref=e83]: "| „"
+        - generic [ref=e84]: "| “"
+        - generic [ref=e85]: "| Pfleger"
+      - generic [ref=e87]: nicht spa!
+```
