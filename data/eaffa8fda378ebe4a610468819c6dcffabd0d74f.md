@@ -1,0 +1,79 @@
+# Page snapshot
+
+```yaml
+- main [ref=e2]:
+  - generic [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]: "272"
+      - generic [ref=e19]:
+        - text: Man würde irren, wenn man annä
+        - generic [ref=e20]:
+          - text: m
+          - generic [ref=e21]: h
+        - generic [ref=e22]:
+          - text: e
+          - generic [ref=e23]: m
+        - generic [ref=e24]:
+          - text: ","
+          - generic [ref=e25]: e
+        - text: ","
+      - text: daß der Nationalsozia-
+      - text: lismus, den mit der „Journaille“ versorgt zu haben sie
+      - generic [ref=e26]:
+        - text: be-
+        - text: klagt,
+      - text: seine Verankerung in meinem Grunde
+      - generic [ref=e27]:
+        - text: s
+        - generic [ref=e28]: v
+      - text: erschmäht hätte.
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - text: Ja, er hat ihn geradezu als seinen Boden reklamiert, in
+        - text: der Annahme,
+      - text: daß meine Verteidigung der Menschheit, die
+      - text: Parteinahme für Natur und Geist gegen die Zerstörermächte
+      - text: unbeherrschter Technik und mißratener Intelligenz, einem
+      - text: Ariogermanentum, dessen
+      - generic [ref=e31]:
+        - text: Lebensinteressen mir unbekannt
+        - text: sind, nicht diene,
+      - text: sondern ausschließlich
+      - generic [ref=e32]:
+        - text: gilt. Meine
+        - text: mo
+        - generic [ref=e33]:
+          - text: l
+          - generic [ref=e34]: r
+        - text: alische Kompetenz seinen
+      - text: Ausbruch abzulesen,
+      - generic [ref=e35]:
+        - text: erscheint
+        - text: demnach
+      - text: von dem philosophischen Gründer der Bewegung
+      - generic [ref=e36]:
+        - text: aner
+        - deletion [ref=e38]: kannt
+        - text: kannt, jenem Dr.J.Lanz v.Liebenfels, der in einer Zeit-
+        - text: schrift ,Ostara'
+      - text: die Züchtung des Rassemenschen angebahnt
+      - text: hat. An einer Rundfrage
+      - generic [ref=e39]:
+        - text: des ,Brenner', anläßlich einer ge-
+        - text: ringfügigen Schmähung meines Wirkens, die seither weit
+        - text: übertroffen wurde,
+        - text: war er
+      - text: mit einer Antwort beteiligt,
+      - text: deren Reproduktion nach genau zwanzig Jahren nicht so
+      - text: meine Eitelk
+      - generic [ref=e40]:
+        - text: a
+        - generic [ref=e41]: e
+      - text: i
+      - generic [ref=e42]:
+        - text: e
+        - generic [ref=e43]: t
+      - text: als meine Vorliebe für Kontraste befriedi-
+      - generic [ref=e44]: "gen soll:"
+    - generic [ref=e46]: col.
+```
