@@ -1,0 +1,66 @@
+# Page snapshot
+
+```yaml
+- main [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]: "276"
+        - text: so grauses Gemisch vorstellt wie sein Hinfall an die braune.
+        - text: Ich weiß, daß diese Kultur auch ohne die Möglichkeit, daß
+        - text: ein blutbesoffener Pöbel mit ihren Gütern schaltet, ihre
+        - text: Übel, ja ihre Schrecken hat, und symptomempfindlich wie ich
+        - deletion [ref=e20]: b
+        - text: bin erschließe ich Krieg und Hunger aus dem Gebrauch, den
+        - text: die Presse von der Sprache macht, aus der Verkehrung von
+        - text: Sinn und Wert, aus der Entleerung und Entehrung allen Be-
+        - text: griffs und allen Inhalts. Sicherlich, wenn sie heroischem
+        - generic [ref=e21]:
+          - text: Erinnern frönt, so ersteht das Projekt als Alpdruck
+          - generic [ref=e23]: col.
+        - generic [ref=e24]:
+          - generic [ref=e27]: eines österreichischen Denkmals für
+          - generic [ref=e31]: BERNA — Käse
+          - generic [ref=e34]: den Unbekannten Soldaten . . . .
+        - generic [ref=e36]: garm.
+        - text: Schmach ihrem Gedenken durch alle Zeit, in der sie leben
+        - text: wird! Wenn nicht die Men
+        - generic [ref=e37]:
+          - text: w
+          - generic [ref=e38]: s
+        - text: chheit, die es bewußtlos erträgt,
+        - text: ihre letzten Tage hinter sich hat, im Begriffe, von jenem
+        - text: Diktator geholt zu werden, der einstweilen ihre Wortführer
+        - text: zwingt, bei allem, was sie frisch wagen und ganz verlieren,
+        - text: bis zum
+        - generic [ref=e39]: letzten Ende
+        - text: eben dieses zu berufen. Zwangsläufig
+        - text: haschen sie nach der Formel, die, wenn alle Phrasen gezündet
+        - text: haben, als letzte Motte dem Brand einer Papierwelt zufliegt.
+        - text: Doch selbst nicht der Handel, den die Presse mit dem Krieg
+        - text: eingeht und der nun wirklich von
+        - generic [ref=e40]:
+          - text: jener
+          - generic [ref=e41]: Käseausstellung 1914
+        - text: über alles, was den Maden anheimfiel, bi
+        - generic [ref=e42]:
+          - text: c
+          - generic [ref=e43]: s
+        - text: zu diesem Dokument
+        - text: reicht; kein Frevel, dessen die Zivilisation an der Schöpfung
+        - text: fähig
+        - generic [ref=e44]: ist — nichts vergleicht sich mit der wahnschaffnen
+        - text: Tat, die solcher Wirklichkeit zuwuchs.
+      - text: Mag der Weg zu ihr
+      - text: vom ausgehöhlten Wo
+      - generic [ref=e45]:
+        - text: e
+        - generic [ref=e46]: r
+      - text: t geführt haben, mag die Presse auch hier
+      - text: der Unheilsbote sein, der es zu verantworten hat — wir müssen
+      - text: ihm danken, wenn er das Unheil nur meldet, das vor jeglichem
+      - text: Versuch, es zu deuten, bloß den Gedanken an Rettung gewährt,
+      - text: bloß das Gefühl, mit allem, was zu meiden ist, in Wehrlosig-
+      - text: keit verbunden zu sein; und bloß die Frage, wie lange es
+    - text: "[?][?]"
+```

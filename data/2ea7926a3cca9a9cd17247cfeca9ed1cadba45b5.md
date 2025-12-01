@@ -1,0 +1,92 @@
+# Page snapshot
+
+```yaml
+- main [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e14]: "| ₰"
+        - generic [ref=e16]: "| n"
+      - generic [ref=e20]:
+        - generic [ref=e23]:
+          - generic [ref=e24]: "148"
+          - text: übrigens auch für die Zeit nach der zweiten Wahl gilt). Feder schloß
+          - generic [ref=e25]: damals, man könne nie alt genug sein, um die Treue zu halten.
+        - generic [ref=e26]: "Ich zähle sieben. Aber zusammen sind sie |die Treue⁠ ⁠:"
+        - generic [ref=e29]:
+          - text: Der Reichspräsident Hindenburg und der Reichskanzler Adolf Hitler
+          - text: haben durch ihr in Neudeck
+          - generic [ref=e30]:
+            - text: besiegeltes Vertrauensverhält
+            - text: "-"
+            - text: nis
+          - text: dem ganzen deutschen Volke ein leuchtendes Beispiel der Einigkeit
+          - text: gegeben, das alle Deutschen verpflichtet, ihnen nachzueifern im Dienste
+          - text: am neuen Staat und in der Treue zu denen, die zu seiner Führung
+          - generic [ref=e31]: berufen sind.
+        - generic [ref=e32]: "Nach einer detaillierteren Darstellung⁠ ⁠:"
+        - generic [ref=e35]:
+          - deletion [ref=e37]: .
+          - text: . . Schließlich wurde der Empfang von Hindenburg in brüsker
+          - text: Weise plötzlich abgebrochen. Kaum hatte sich aber Hitler aus dem
+          - text: Arbeitszimmer des Reichspräsidenten entfernt, als dieser offenbar unter
+          - text: dem Ei
+          - deletion [ref=e39]: u
+          - text: druck der Aufregungen dieser Audienz ohnmächtig zusammen-
+          - text: brach. Es trat ein ärztliches Konsilium zusammen, und dieses beschloß,
+          - text: Hindenburg den dringenden Rat zu erteilen, sich sofort auf sein Schloß
+          - text: nach Neudeck zurückzuziehen. Nach sicheren Informationen ist dieser
+          - text: Ratschlag auf den ausdrücklichen Wunsch Hitlers den Ärzten anbefohlen
+          - text: worden. Seither ist Hindenburg in Neudeck der Gefangene der Hitler-
+          - generic [ref=e40]: Regierung.
+        - generic [ref=e41]: Wie sagt doch —⁠ ⁠?
+        - generic [ref=e44]:
+          - generic [ref=e45]: Mit diesen hast du dich vereinigt,
+          - generic [ref=e46]: Mich hat’s die ganze Zeit gepeinigt.
+          - generic [ref=e47]: Das Gaukeln schafft kein festes Glück.
+        - text: Was die Treue anlangt, |war noch vor kurzem die
+        - generic [ref=e48]: "Version verbreitet⁠ ⁠:"
+        - generic [ref=e51]:
+          - text: "Der Reichspräsident v. Hindenburg, der den Satz prägte⁠ ⁠: »Die Treue"
+          - generic [ref=e52]: ist das Mark der Ehre«, hat noch niemanden die Treue gehalten.
+        - text: Ein Mann ein Wort⁠ ⁠; aber nur kein Fremdwort
+        - generic [ref=e53]:
+          - text: mehr,
+          - text: "sie wollen es nicht lassen stan⁠ ⁠:"
+        - generic [ref=e56]:
+          - text: . . Träger der Staatsgewalt, beziehungsweise der Reichs
+          - deletion [ref=e58]: packt
+          - text: ist der
+          - text: Fü⁠ ⁠hrer, der wahrscheinlich Reichsführer heißen wird.
+          - generic [ref=e59]:
+            - text: Das fremd-
+            - text: sprachige Wort Reichspräsident
+          - text: wird
+          - generic [ref=e60]:
+            - text: später ver-
+            - generic [ref=e61]: schwinden.
+        - text: Die Reichspresse| und
+        - deletion [ref=e63]: die
+        - text: Propagandastelle des
+        - text: Reichseinheitsverbandes des deutschen Gastgewerbes
+        - text: veröffentlicht am gleichen Tag
+        - generic [ref=e64]:
+          - text: eine Mahnung, die
+          - text: sich gegen die Verwendung von Fremdwörtern auf
+          - text: den Speisekarten wendet
+        - text: . Das Wort ist neu, die
+        - text: Speise bleibt, der Mann ist schon verschwunden.
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - generic [ref=e67]: "|"
+          - generic [ref=e68]: ⨯
+          - generic [ref=e69]: "| so"
+          - generic [ref=e70]: "| gewalt"
+          - generic [ref=e71]: "| -"
+        - generic [ref=e72]:
+          - generic [ref=e73]: "| wieder"
+          - generic [ref=e74]: "|"
+          - generic [ref=e75]: "|"
+          - generic [ref=e76]: "| ₰"
+    - text: "[?][?]"
+```

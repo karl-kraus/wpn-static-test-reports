@@ -1,0 +1,140 @@
+# Page snapshot
+
+```yaml
+- main [ref=e2]:
+  - generic [ref=e5]:
+    - generic [ref=e10]:
+      - generic [ref=e13]:
+        - generic [ref=e14]: "| ₰"
+        - generic [ref=e15]: "| einer"
+        - generic [ref=e16]: "| Ja w"
+        - generic [ref=e17]: "| ,"
+        - generic [ref=e18]: "| ₰"
+      - generic [ref=e21]:
+        - generic [ref=e22]: "69"
+        - text: dyten
+        - text: mitgeh
+        - deletion [ref=e24]: e
+        - text: n|
+        - generic [ref=e25]:
+          - text: doch bis in ’s Neandertal zieht sich
+          - text: der Weg
+        - text: ", sobald es nämlich nicht bloß schöpfungs -"
+        - text: nah vorgestellt sein soll, sondern auch mit allem
+        - text: Komfort der Neuzeit ausgestattet, inklusive Radio.
+        - text: Benn freilich geht noch weiter
+        - deletion [ref=e27]: ¿ indem er sogar die
+        - deletion [ref=e29]: ernsthafte
+        - text: Hypothese
+        - deletion [ref=e32]: aufstellt — und die
+        - text: ie Gegner
+        - generic [ref=e33]:
+          - text: sollen »endlich doch verstehen«
+          - deletion [ref=e35]: —
+          - text: "⁠ ⁠:"
+        - generic [ref=e39]:
+          - generic [ref=e40]: es handelt sich hier
+          - text: gar nicht um Regierungsformen, sondern
+          - generic [ref=e43]: um eine neue Vision von der Geburt des Menschen|
+        - deletion [ref=e45]: W
+        - text: erden denn,
+        - generic [ref=e46]:
+          - text: seit die Kugel der Men
+          - deletion [ref=e48]: s
+          - text: schheit beim
+          - text: andern Ohr hinaus ging
+        - text: ", alle Motive der Kriegszeit"
+        - text: lebendig⁠ ⁠?
+        - generic [ref=e49]:
+          - text: Sind ’s Träume
+          - deletion [ref=e51]: ⁠ ⁠? S
+          - text: ind ’s Erinnerungen⁠ ⁠?
+        - generic [ref=e52]:
+          - text: »Es handelt sich in dieser Revolution —« »Jawohl,
+          - text: es handelt sich in dieser Revolution⁠ ⁠!«
+        - text: Also um
+        - generic [ref=e53]:
+          - text: eine
+          - text: neue Vision von der Geburt des Menschen, um
+          - text: nichts Geringeres. »Vielleicht um eine alte«
+        - text: ", ergänzt"
+        - text: Benn, der mit sich handeln läßt. Wie immer dem
+        - text: sei| jedenfalls erklärt sich
+        - generic [ref=e54]:
+          - text: die Ein
+          - deletion [ref=e56]: helli
+          - text: gkeit des Ent-
+          - text: schlusses, mit dem sich soeben die Hebammen des
+          - text: Reichs hinter Hitler gestellt haben
+        - text: . Die Totengräber
+        - text: noch nicht, aber jene entschlossen sich wohl nicht
+        - text: nur wegen der vielfachen eugenischen
+        - text: Möglichkeiten,
+        - text: die jetzt eröffnet sind, sondern auch wegen des
+        - text: Verbots der Ankündigung von Schutzmitteln,
+        - deletion [ref=e58]: als
+        - deletion [ref=e60]: als
+        - text: deren verläßlichstes
+        - deletion [ref=e63]: "|"
+        - text: immer noch die Haft anzu-
+        - text: sehen ist. (Die einzige Reform übrigens,
+        - generic [ref=e64]:
+          - deletion [ref=e66]: für die
+          - text: sich
+          - text: das Bruderland gleichgeschaltet hat
+        - text: ","
+        - text: weil es mit
+        - text: Recht will, daß noch mehr Österreicher nicht ange-
+        - text: schlossen werden.
+        - text: ) Benn aber, der zu wissen scheint,
+        - text: daß eine Geburt wie aller Anfang schwer sein kann,
+        - text: verspricht sich von der des Menschen katexochen
+        - text: Außerordentliches, indem er in der Verheißung dessen
+        - generic [ref=e67]: "fortfährt, worum es sich handelt⁠ ⁠:"
+        - generic [ref=e70]:
+          - generic [ref=e71]:
+            - generic [ref=e73]:
+              - text: vielleicht um die letzte großartige Konzept
+              - deletion [ref=e75]: o
+              - text: "n"
+            - text: der
+            - text: weißen Rasse,
+            - generic [ref=e77]:
+              - text: wahrscheinlich um eine der großartigsten
+              - text: Realisationen des Weltgeist
+              - deletion [ref=e79]: e
+              - text: s überhaupt,
+          - text: präludiert in
+          - generic [ref=e80]: jenem Hymnus
+        - generic [ref=e81]:
+          - text: »Juden raus«⁠ ⁠?
+          - deletion [ref=e83]: "n"
+          - text: "icht doch⁠ ⁠:"
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]:
+            - text: "|"
+            - generic [ref=e87]:
+              - deletion [ref=e88]: ","
+              - text: —
+          - generic [ref=e89]: "| und gelangt zu"
+          - generic [ref=e90]: "| . D"
+          - generic [ref=e91]: "| ₰"
+          - generic [ref=e92]: "| ."
+          - generic [ref=e93]: "| ₰"
+          - generic [ref=e94]: "| , s"
+          - generic [ref=e95]: "| stimmi"
+          - generic [ref=e96]: "| für"
+          - deletion [ref=e97]: "| ¿¿¿¿"
+          - generic [ref=e98]:
+            - text: "|"
+            - deletion [ref=e100]: ¿¿¿ ¿¿¿
+            - text: in der
+          - generic [ref=e101]: "| io"
+          - generic [ref=e102]: "| ₰"
+          - generic [ref=e103]: "| N"
+        - generic [ref=e104]:
+          - generic [ref=e105]: ⨯
+          - generic [ref=e106]: ⨯
+    - text: "[?][?]"
+```
