@@ -1,0 +1,141 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e13]:
+          - generic [ref=e14]: "| ⁠ ⁠!"
+          - generic [ref=e15]: "| ⁠ ⁠:"
+          - generic [ref=e16]: "| bereits"
+          - generic [ref=e17]: "| sprach"
+          - generic [ref=e18]: "| Wolf"
+          - generic [ref=e19]: "| die"
+          - generic [ref=e20]: "| “"
+        - generic [ref=e22]:
+          - text: "| ,"
+          - deletion [ref=e24]: ¿¿¿¿¿¿
+          - text: das schlichte und
+          - text: "inzwischen geflügelte Wort⁠ ⁠:"
+      - generic [ref=e26]:
+        - generic [ref=e27]: "220"
+        - generic [ref=e30]:
+          - text: davon, daß
+          - generic [ref=e31]:
+            - text: zu solchen Maßnahmen jede gesetzliche
+            - generic [ref=e32]: Grundlage fehlte, gar nicht zu reden.
+        - text: Nein, nimmer würde unsere Sozialdemokratie anti-
+        - text: demokratischen Methoden zustimmen, die sie dauernd
+        - text: der Möglichkeit berauben
+        - deletion [ref=e34]: könnten,
+        - text: in Schutzhaft ge-
+        - text: nommen zu werden, und immer wird sie jenen wehren,
+        - text: die sie und sich und alle vor ihr zu schützen bemüht
+        - text: sind. Davon, daß keine Todesdrohung imstande wäre,
+        - text: uns gegebenenfalls zu einer Abstimmung zu zwingen,
+        - text: die uns nicht von Herzen kommt, gar nicht zu
+        - text: reden
+        - deletion [ref=e36]: .
+        - text: Denn
+        - generic [ref=e37]:
+          - text: unser politisches Gedankenleben atmet
+          - text: frei im luftleeren Raum, in dem sich die Sachen
+          - text: nicht stoßen
+        - text: ", und wehrt sich gegen die Vorstellung,"
+        - text: daß draußen der Feind steht. |Ein ministerieller
+        - text: Machthaber der deutschen Partei, heute das Opfer
+        - text: seiner Zuversicht
+        - deletion [ref=e39]: ", hat,"
+        - generic [ref=e40]:
+          - text: als man ihn auf das Wachs-
+          - text: tum der Bewegung hinwies, die vor seiner Nase
+          - deletion [ref=e42]: schon
+          - text: Kasernen habe, erwider
+          - deletion [ref=e44]: t
+          - text: ", umso besser könne"
+          - text: man »sie im Auge behalten«, doch zum Einschreiten
+          - text: fehle »das legale Mittel«
+        - text: . Ein anderer Bekenner der
+        - text: Legalität
+        - deletion [ref=e46]: sagte
+        - text: ", da schon Panik herrschte und"
+        - text: man wegen Sicherung des Parteiarchivs beriet,
+        - text: welches zwei Gesandtschaften in Obhut nehmen
+        - generic [ref=e47]:
+          - text: wollten
+          - deletion [ref=e49]: ¿
+          - text: Wozu denn
+          - deletion [ref=e51]: ¿
+        - generic [ref=e55]: steht doch unter Denkmalschutz⁠ ⁠!
+        - text: So bombensicher ist kein Unterstand wie die Er-
+        - text: wartung der Demokratie, daß der
+        - deletion [ref=e57]: Faszismus
+        - text: ", dem"
+        - text: sie aus Prinzip zur Entfaltung verhilft, sich dankbar
+        - text: erweisen, ihren Sinn für Legalität teilen, ihr Ver-
+        - text: trauen auf die demokratischen Einrichtungen belohnen
+        - text: werde⁠ ⁠; und das schönste Gedenkblatt bildet
+        - generic [ref=e58]:
+          - text: jene
+          - text: Nummer aus der freiheitlichen Ära des Berliner Ta
+          - deletion [ref=e60]: g
+          - text: "-"
+          - text: blatts, in der es den Hitler auf die Weimarer Ver-
+          - text: fassung,
+          - deletion [ref=e62]: zu der
+          - text: er
+          - deletion [ref=e64]: s
+          - text: chwören mußte, als er braun
+          - text: "-"
+          - text: schweigischer Regierungsbeamter wurde,
+          - text: "|glatt"
+          - deletion [ref=e67]: "|"
+          - text: fest-
+          - text: gelegt| hat
+        - text: "⁠ ⁠: jetzt hat er geschworen, jetzt gibt’s"
+        - text: nichts mehr, jetzt wissen wir, daß ihn, falls er
+        - text: sich trotzdem zur Gründung des Dritten Reichs
+        - generic [ref=e68]:
+          - text: Wir glauben halt, daß der auch nur Phrasen macht wie wir.
+          - generic [ref=e69]:
+            - text: „Großmutter, was hast du für ein
+            - text: großes Maul⁠ ⁠?“ „Daß ich dich besser fressen kann⁠ ⁠!“
+          - text: Eine künftige Kindheit, falls Hitler und die Folgen
+          - text: sie aufkommen lassen, wird
+          - deletion [ref=e71]: erst
+          - text: dem „Rotkäppchen“ erst seinen Sinn abgewinnen. (Auch der
+          - text: Pointe der Großmutter.) Die
+          - deletion [ref=e73]: deutsche
+          - text: Sozialdemokratie hat Blumen im Wald gesucht, und |
+          - generic [ref=e74]: "| die unsrige"
+          - deletion [ref=e76]: wird
+          - text: von
+          - generic [ref=e77]:
+            - text: Glück sagen können, wenn
+            - generic [ref=e78]:
+              - deletion [ref=e79]: der
+              - generic [ref=e80]:
+                - text: "|"
+                - generic [ref=e81]:
+                  - deletion [ref=e82]: ein
+                  - generic [ref=e83]: "| der"
+            - text: Jäger
+            - generic:
+              - deletion
+            - text: kommt, sie zu retten.
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]: "| würden,"
+          - generic [ref=e87]: "|"
+          - generic [ref=e88]: "| te er"
+          - generic [ref=e89]: "| , Kinder⁠ ⁠?"
+          - generic [ref=e90]: "| ge"
+          - generic [ref=e91]: "| bes"
+          - generic [ref=e92]: "| „"
+        - generic [ref=e93]:
+          - generic [ref=e94]: ⨯
+          - deletion [ref=e95]: "|"
+          - generic [ref=e96]: ⨯
+```

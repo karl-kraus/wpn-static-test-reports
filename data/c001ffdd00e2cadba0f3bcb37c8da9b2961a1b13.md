@@ -1,0 +1,120 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e13]:
+        - generic [ref=e14]: "| . E"
+        - generic [ref=e15]: "| -"
+        - generic [ref=e16]:
+          - text: "|"
+          - generic [ref=e17]:
+            - generic [ref=e18]: "| Mann"
+            - deletion [ref=e19]: Jener
+        - generic [ref=e20]: "| wirklich"
+        - generic [ref=e21]: "| tr"
+        - generic [ref=e25]: "| ₰"
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]: "130"
+          - text: Alraune, die geistige Pforte zum Dritten Reich be-
+          - text: wacht
+          - deletion [ref=e31]: ", e"
+          - text: r
+          - generic [ref=e32]:
+            - text: ist aber auch Aufsichtsrat der Berliner
+            - text: Wäschefabriks
+            - deletion [ref=e34]
+            - text: A. G.
+          - text: "|und nicht jeder Deutsche weiß,"
+          - generic [ref=e35]: daß darin mehr als eine Äußerlichkeit liegt.
+        - generic [ref=e36]:
+          - text: Daß so mancher Einlaß fand, selbst Ausländer,
+          - text: die doch von Natur verdächtig sind, hat seinen
+          - generic [ref=e37]: "guten Grund⁠ ⁠:"
+          - generic [ref=e40]:
+            - text: Nicht jeder russische Schriftsteller ist Kulturbolschewist
+            - deletion [ref=e42]: ¿
+            - text: Dostojewski
+            - text: und Tolstoi gehören nicht auf den Index (
+            - generic [ref=e43]:
+              - text: ohne Dostojewski
+              - generic [ref=e44]: kein Moeller van den Bruck⁠ ⁠!)
+          - deletion [ref=e47]: Der
+          - deletion [ref=e49]: Russe
+          - text: hat also seine Meriten. Der Kommentar|
+          - text: jedoch,
+          - generic [ref=e50]:
+            - text: der vom Preußischen Ministerium für
+            - text: Wissenschaft, Kunst und Volksbildung »anerkannt
+            - text: und für die staatlichen Buchberatungsstellen auf
+            - text: dem Lande verbindlich erklärt worden ist«
+          - text: ", stellt"
+          - text: sogar ausdrücklich fest,
+          - generic [ref=e51]:
+            - text: daß »nicht jeder jüdische
+            - text: Schriftsteller ein Asphaltliterat
+            - text: « ist
+          - text: . Man würde nun
+          - text: — und jetzt erbitte ich Spannung — unmöglich
+          - text: erraten, welcher Semit, auserwählt, als der einzige
+          - text: aus der Sündflut gerettet zum Vorschein kommt.
+          - text: Bin Gorion⁠ ⁠! Ein Name, den noch wenige Teilhaber
+          - text: der Mitwelt vernommen ha
+          - deletion [ref=e53]: tt
+          - text: en. Die Arche Noah hat
+          - text: ihre Notbesatzung verloren, aber einer steckt den
+          - text: Kopf heraus und ruft hinüber zum Ufer der er-
+          - text: "staunten Nachwelt⁠ ⁠: »Bin gerettet⁠ ⁠! Bin Gorion⁠ ⁠!«"
+          - text: »Wer sind Sie⁠ ⁠?« fragt man, da man den Vorgang
+          - text: uicht gleich versteht.
+          - deletion [ref=e55]: Allein
+          - text: »Bin« ist ein Vorname,
+          - text: und der amtliche Kommentar
+          - deletion [ref=e57]: zum Index
+          - text: ", der da"
+          - text: "|nötig ist, erklärt,"
+          - generic [ref=e58]:
+            - text: daß die Kritik, die Bin Gorion,
+            - text: Zionist, »stets an den literarischen Assimilations-
+            - text: juden geübt hat, das jüdisch-völkische Prinzip ver-
+            - deletion [ref=e60]: tt
+            - text: itt«
+          - text: . Da man auch den Zun
+          - deletion [ref=e62]: s
+          - text: men zum erstenmal
+          - text: hört und etwas nicht Seiendes, wirklich noch nicht
+          - text: Dagewesenes nun
+          - deletion [ref=e64]
+          - text: mehr existent wird
+          - generic [ref=e66]:
+            - deletion [ref=e68]: ","
+            - deletion
+          - text: bin ich ge
+          - text: "-"
+          - text: nötigt, stolz zu bekennen, daß zu den literarischen
+          - text: Assimilationsjuden, an denen Bin stets Kritik geübt
+          - text: hat, vor allem ich gehöre, hoffend, daß ein Brös
+          - deletion [ref=e70]:
+            - generic [ref=e72]:
+              - deletion [ref=e73]: lein
+              - deletion
+          - text: Beachtung nun auch für mich abfallen wird. Endlich
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - generic [ref=e76]: "| geworden,"
+          - generic [ref=e77]: "| ."
+          - generic [ref=e78]: "| zur Schwarzen Liste"
+          - generic [ref=e79]: ⨯
+          - generic [ref=e80]: "| b"
+          - generic [ref=e81]: "| Doch"
+          - generic [ref=e82]: "| ₰"
+          - generic [ref=e83]: "| a"
+          - deletion [ref=e84]: "| –"
+          - deletion [ref=e85]: "| l"
+        - generic [ref=e86]:
+          - generic [ref=e87]: ⨯
+          - generic [ref=e88]: "| erl"
+```

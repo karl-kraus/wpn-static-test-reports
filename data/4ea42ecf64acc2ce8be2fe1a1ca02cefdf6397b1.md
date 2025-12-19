@@ -1,0 +1,91 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e13]:
+        - generic [ref=e14]: ∾
+        - generic [ref=e15]: "|"
+        - generic [ref=e16]: "| he"
+      - generic [ref=e19]:
+        - generic [ref=e20]: "37"
+        - generic [ref=e22]:
+          - generic [ref=e23]: Jedem Worte klingt
+          - generic [ref=e24]: Der Ursprung nach, wo es sich her bedlngt.
+        - text: Nur daß man jenen eben nie die Aktivität zugetraut
+        - text: hätte, deren die Bodenständigen fähig sind⁠ ⁠; ganz
+        - text: abgesehen davon, daß bisher noch kein Journalist
+        - generic [ref=e25]:
+          - text: einen richtig
+          - deletion [ref=e27]
+          - text: gehenden Prinzen zum Adjutanten
+          - text: gehabt hat
+        - text: . Diese Fixigkeit in dem, was sie »Auf-
+        - text: ziehn der Chose
+        - text: « (oder auch der »Kiste«) nannten,
+        - text: setzt die gerissensten Kulturfaiseure
+        - text: in Staunen,
+        - text: die det Kind ja immer schon geschaukelt
+        - text: haben, beschämt alle Wunder einer entthronten
+        - text: Theaterregie, läßt aber auch die Vertreter einer
+        - text: bessern Sache bedauern, daß ihr solch eine
+        - text: Kraft als Minister für Greuelpropaganda ver-
+        - text: loren ging. Und doch hat sich eben im Tonfall
+        - text: der deutschen Welt nichts verändert. Mit den glei-
+        - text: chen geistigen Mitteln erfolgt die Verankerung
+        - text: dessen, was heute zu verankern ist, Vision ist Phrase,
+        - text: Rhythmus das alte Überbleibsel der Syntax, das
+        - text: der Expressionismus für kollektives Erlebnis festge-
+        - text: legt hat, und
+        - text: sogar
+        - generic [ref=e28]:
+          - text: verdrängte Komplexe, die doch
+          - text: zweifellos verdächtiger Herkunft sind
+        - text: ", finden Unter-"
+        - text: kunft. Hat doch selbst der Führer, dessen Ausdrucksver-
+        - text: mögen keineswegs von Gundolf geschult wurde
+        - text: und dessen Weltbild nicht so sehr durch Freud als
+        - generic [ref=e29]: durch Karl May geformt
+        - text: scheint, bereits den
+        - generic [ref=e30]:
+          - text: Minder-
+          - text: wertigkeitskomplex
+        - text: beklagt, an dem die Nation
+        - generic [ref=e31]: leide. Was tat aber bisher das Theater⁠ ⁠?
+        - generic [ref=e34]:
+          - text: Es trieb den Individualismus auf die Spitze, indem es die verdrängten
+          - text: Komplexe irgendeines kranken Menschen auf die Bühne brachte.
+          - generic [ref=e35]:
+            - text: Das
+            - generic [ref=e36]: nannte man l’art pour l’art.
+        - text: Der Kulturbevollmächtigte weiß alles auf einmal,
+        - text: er ist im ganzen Umkreis de
+        - deletion [ref=e38]: r
+        - text: literarischen
+        - deletion [ref=e40]: Termino
+        - deletion [ref=e42]:
+          - text: "-"
+          - text: logie
+        - text: zu Hause,
+        - deletion [ref=e44]: jener
+        - text: Abstrakta
+        - text: ", die in Berlin jede"
+        - text: Schreibmaschine von sich gab, und er weiß gelegent-
+        - text: lich sogar an jene polemisch-satirische Note an-
+        - text: zuknüpfen, der ich oft das Objekt vorzog, wenn
+        - text: sie etwa »Röllchen« als Anzeichen zivilisatorischer
+        - text: Rückständigkeit
+        - text: hechelte, den »Vollbart« (auch
+        - text: »Würdebart« oder »Rausc
+        - deletion [ref=e46]: h
+        - text: bart« genannt) geißelte
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - generic [ref=e52]: "| ₰"
+          - generic [ref=e53]: "| s"
+          - generic [ref=e54]: "| der"
+          - generic [ref=e55]: ∾
+        - generic [ref=e57]: "| Slang"
+```

@@ -1,0 +1,119 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e13]: "| ("
+        - generic [ref=e14]:
+          - generic [ref=e15]: "| ₰"
+          - generic [ref=e16]: "| nen"
+          - generic [ref=e17]: "|"
+          - generic [ref=e18]: "| ganze"
+          - deletion [ref=e19]: "| schädi"
+          - generic [ref=e20]: "| ₰"
+          - generic [ref=e21]: "| ₰"
+        - generic [ref=e23]: "| hervorgerufen,"
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - generic [ref=e27]: "170"
+          - text: Untersuchungen nach der Ariereigenschaft«, die
+          - text: »namentlich bei Aktiengesellschaften fast undurch-
+          - text: führbar«
+          - deletion [ref=e29]: seien
+          - text: ", müssen unter allen Umständen ver-"
+          - text: mieden werden⁠ ⁠; |ausschlaggebend ist, ob deutsches
+          - text: Personal beschäftigt wird
+          - deletion [ref=e31]: .
+        - text: Man kann nicht immer
+        - text: feststellen,
+        - generic [ref=e32]:
+          - text: ob »das Kapital einer Unternehmung
+          - text: deutsch sei oder nicht«, und man soll |nicht
+          - text: fetsstellen, »in welchem Umfang nichtarische
+          - text: Persönlichkeiten vorhanden sind, da dieser ganze
+          - text: Fragenkomplex nicht so einfach ist« und
+          - text: »durch unbedachte Maßnah
+          - deletion [ref=e34]: e
+          - text: n manchmal eine
+          - text: Störung des gesamten Wirtschaftslebens erfolgt«
+        - text: .
+        - text: Ferner ist
+        - generic [ref=e35]:
+          - text: für die Adolf Hitler-Spende
+          - text: ", deren Frei-"
+          - text: willigkeit in umfassender Weise durchgeführt wird,
+          - deletion [ref=e37]: »
+          - text: eine großzügige
+          - deletion [ref=e39]: «
+          - text: "|Beteiligung insbesondere auch"
+          - text: jüdischer Unternehmungen grundsätzlich vorgesehen
+          - deletion [ref=e41]: ","
+          - text: "|de"
+          - deletion [ref=e43]: m
+          - text: »hieraus Vorwürfe und Nachteile nicht er-
+          - text: wachsen sollen«
+          - deletion [ref=e45]: ", bei Nichtbeteiligung allerdings"
+          - text: könnten diese Firmen den Ausweis nicht erhalten
+          - generic [ref=e46]: "|"
+          - text: und wären »demzufolge vor weiteren Einzel-
+          - text: sammlungen nicht geschützt«
+          - generic [ref=e47]: "|"
+        - text: ","
+        - deletion [ref=e49]: die
+        - text: oft nicht unbe-
+        - text: denklich verlaufen. Wie man sieht,
+        - deletion [ref=e51]: sind
+        - text: die Juden
+        - text: unbehelligt, solange man nicht ihren Geschäften
+        - text: nachgeht, und das Bewußtsein, als gleichberechtigt
+        - text: in ein System der Erpressung einbezogen zu sein,
+        - text: das die |Nation umspannt, bietet doch eine gewisse
+        - deletion [ref=e53]:
+          - text: Ent
+          - generic [ref=e55]:
+            - generic [ref=e56]: täusch
+            - deletion
+          - text: ung.
+        - text: Alles vollzieht sich in den Riesen-
+        - text: maßen des Brillantfeuerwerkes, das von der irdischen
+        - text: "Krise den Blick zum Firmament zieht⁠ ⁠: Piraten len-"
+        - text: k
+        - deletion [ref=e58]: t
+        - text: en pyrotechnisch ab, das Volk ohne Unterschied
+        - text: der Rasse schaut zu und
+        - deletion [ref=e60]: erkennt
+        - text: ", was ihm für sein"
+        - text: Geld geboten wird. Die Kurierung des Wirtschafts-
+        - text: lebens aus dem
+        - deletion [ref=e62]: einen
+        - text: Punkt |hat |
+        - deletion [ref=e64]: Schwierigkeiten
+        - deletion [ref=e66]: geschaffen,
+        - text: aber erstaunlich ist auch wieder, wie
+        - text: einfache Auswege sich finden lassen. Ein optisches
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - generic [ref=e69]: "| sind"
+          - generic [ref=e70]: "| „"
+          - generic [ref=e71]: "| “."
+          - generic [ref=e72]: "| gar"
+          - generic [ref=e73]: "| me"
+          - generic [ref=e74]: "| ₰"
+          - generic [ref=e75]:
+            - text: "| «"
+            - deletion [ref=e77]: ","
+          - generic [ref=e78]:
+            - text: "| ), widrigenfalls"
+            - deletion [ref=e80]: freilich
+          - generic [ref=e81]: "| welche"
+          - generic [ref=e82]: "| leben"
+          - generic [ref=e83]: "| Genugtuung."
+          - generic [ref=e84]: "| sieht"
+          - generic [ref=e85]: "| der Rasse"
+          - generic [ref=e86]: "| Reibungen"
+        - generic [ref=e88]: "| »"
+        - generic [ref=e90]: "| gewisse"
+```
