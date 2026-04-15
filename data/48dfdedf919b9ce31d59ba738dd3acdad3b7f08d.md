@@ -1,0 +1,91 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e18]:
+        - generic [ref=e21]:
+          - generic [ref=e22]: "234"
+          - text: kanaille,gestürzt!Diesem Manne kommt nicht lokal wienerische,
+          - text: nicht österreichische,nicht deutsche Bedeutung allein zu,
+          - generic [ref=e23]:
+            - text: dieser
+            - text: Mann hat
+          - generic [ref=e24]:
+            - text: den Ariogermanen wieder das Recht der öffentlichen
+            - text: Ausprache zurückgegeb
+            - generic [ref=e25]:
+              - text: "n"
+              - generic [ref=e26]: e
+            - text: "n"
+          - text: ", er hat es uns ermöglicht,dass wir jetzt,"
+          - text: wo wir das überwältigende Schauspiel erleben,dass sich über de
+          - generic [ref=e27]:
+            - text: ","
+            - generic [ref=e28]: m
+          - text: seiner Lösung sich nähernden Nationalitäten-Problem riesengross
+          - text: das Rassenproblem erhebt und Europa und seiner Kultur der Unter-
+          - text: gang in der gelben und schwarzen Flut dro
+          - generic [ref=e29]:
+            - text: f
+            - generic [ref=e30]: h
+          - text: t,unsere mahnende und
+          - text: belehrende Stimme erheben können.Er hat
+          - generic [ref=e31]:
+            - text: uns die Sprache wieder
+            - text: gegeben
+          - text: und die bellende „Journaille“ mundtot gemacht.Wer daher
+          - text: Ka
+          - generic [ref=e32]:
+            - text: l
+            - generic [ref=e33]: r
+          - text: l Kraus schmäht,der degradiert sich selbst,der tritt von selbst
+          - text: in die Reihen des allerdings noch immer nur zu zahlreichen Heer-
+          - text: haufens wissenschaftlicher und literarischer Korruptionisten,
+          - text: Scharlatane und Marodeure.
+        - generic:
+          - generic: garmond
+        - text: Diese Apologie enthält nebst den grundlegenden Irrtümern
+        - text: weltanschaulicher Auffassung vor allem die Fehlansicht,dass es
+        - text: mir schon 1913 gelungen sei,die Presse unschädlich zu machen, welche
+        - deletion [ref=e35]: die
+        - text: gleich darauf den Weltkrieg bewirkte und förderte,aus
+        - text: ihm als der einzige Sieger hervorgieng und es mit unauf
+        - generic [ref=e36]:
+          - text: "-"
+          - generic [ref=e37]: h
+        - text: alt-
+        - text: samem Wachstum ihrer Geistes
+        - generic [ref=e38]:
+          - generic [ref=e39]: "| gewalt"
+          - deletion [ref=e40]: macht
+        - text: bis zur Realisierung des
+        - text: Nationalsozialismus |
+        - generic [ref=e41]: "| ge"
+        - text: bracht
+        - generic [ref=e42]:
+          - generic [ref=e43]: "| hat"
+          - deletion [ref=e44]: e
+        - text: .Man muss natürlich immer ver-
+        - text: stehen,dass für diese Wertung des eigentlichen journalis-
+        - text: tischen Wirkens der lächerliche Aussenbegriff einer Press-
+        - text: freiheit mit ihrer Genehmigung oder Einschränkung durch den
+        - text: ohnmächtigen Staat überhaupt nicht in Betracht kommt;selbst
+        - generic [ref=e45]:
+          - generic [ref=e46]: "| ihre totale"
+          - deletion [ref=e47]: deren volle
+        - text: Sistierung für den politischen Zweck vermag nichts
+        - text: gegen die Verderblichkeit des in die Ma
+        - generic [ref=e48]:
+          - text: chine dktierten
+          - generic [ref=e49]: schine diktierten
+        - text: ","
+        - text: wie immer gesinnten Wortes,und mögen hundert Staatsanwä
+        - generic [ref=e50]:
+          - text: e
+          - generic [ref=e51]: l
+        - text: te
+      - generic [ref=e55]: ⨯
+```
