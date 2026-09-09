@@ -1,0 +1,112 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e14]: "| ü"
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - generic [ref=e19]: "41"
+          - text: des Volkes
+        - text: nicht schon zum Boykott-Tag
+        - generic [ref=e20]:
+          - text: an jüdischen
+          - text: Schaufenstern ausgegeben haben
+        - text: ", da und dort gün-"
+        - text: stige Ansätze. Das polemische Schrifttum hat einen
+        - text: frischen Zug bekommen und das Zeitgedicht, das
+        - text: mit beißender Satire Übelständen an den Leib rückt,
+        - text: wird gepflegt. So findet unter dem Titel »
+        - generic [ref=e21]:
+          - text: Jüdische
+          - text: Kapitalsflucht ins Ausland
+        - text: « das Pasquill eines
+        - generic [ref=e22]:
+          - text: Edel-
+          - text: manns
+        - text: reißenden Absatz, das gleich in der ersten
+        - text: Strophe kräftig zupackt, wo verlangt wird, daß mit
+        - generic [ref=e23]: "den Juden endlich reiner Tisch gemacht werde⁠ ⁠:"
+        - generic [ref=e25]:
+          - generic [ref=e27]: Dieser Bande, die sich so unglaublich benimmt
+          - generic [ref=e28]: Und lügt und hetzt und wühlt ganz offen
+          - generic [ref=e29]: Und im Stillen hier und im Ausland und will
+          - generic [ref=e30]: Daß sie die Herrschaft wieder zurück gewinnen —
+          - generic [ref=e32]: Ihr armen Tore, die ihr solches denkt
+          - generic [ref=e34]: Eure Zeit ist vorbei meine Herrn⁠ ⁠!
+        - text: Der freie Rhythmus, mit einer gewissen Ungezwungen-
+        - text: heit in Syntax und Interpunktion, ist natürlich mehr
+        - text: auf akustische Wirkung abgestimmt. Es
+        - deletion [ref=e36]: ¿
+        - text: st ein
+        - generic [ref=e37]:
+          - text: Ost-
+          - text: elbier
+        - text: ", der seinen natürlichen Empfindungen in der"
+        - generic [ref=e38]: Großstadt Luft macht beim Anblick
+        - generic [ref=e40]:
+          - generic [ref=e41]: Dieser fremden Rasse, die so artfremd dem Germanenblut
+          - generic [ref=e43]: Diesen Blutegeln, die so unglaublich das Volk aussogen
+          - generic [ref=e45]: Hinaus nun mit dem Jud⁠ ⁠!
+        - generic [ref=e46]: "Zwar scheinen sie wenig Nahrung gefungen zu haben⁠ ⁠:"
+        - generic [ref=e50]: Diese fremde Herde auf deutschem Sand
+        - text: aber gleichwohl waren sie aller Orten anzutreffen,
+        - generic [ref=e51]:
+          - text: wie der einfache R
+          - deletion [ref=e53]: u
+          - text: "ckblick dartut⁠ ⁠:"
+        - generic [ref=e55]:
+          - generic [ref=e57]: Überall im deutschen Land es war
+          - generic [ref=e58]: Ob Stadt, ob Dorf, ob Palast oder Hütte, man sah
+          - generic [ref=e59]: Überall die krummen Nasen . . . .
+          - generic [ref=e62]:
+            - text: Überall an gehobener Stelle in die Höh Juden
+            - generic [ref=e63]: schnellen
+        - text: Mehr als das. Drastisch wird geschildert, wie der
+        - text: Arier alle Gelegenheiten, zu denen es ihn drängte,
+        - text: immer schon von Juden, die |schnellerundmehr
+        - generic [ref=e64]: "waren, besetzt fand⁠ ⁠:"
+        - generic [ref=e66]:
+          - generic [ref=e67]: Wirtschaft und Geschäft — überall der Jud
+          - generic [ref=e68]: Presse, Theater, Film, blick hin wo du willst
+          - generic [ref=e70]: Überall der Jud die Hauptrolle miemt
+          - generic [ref=e72]: Allüberall, ja bald jedes Kloset
+          - generic [ref=e74]: War von irgend einem Juden besetzt
+      - generic [ref=e76]:
+        - generic [ref=e77]: "| i"
+        - generic [ref=e78]: "| eben"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e83]:
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e86]
+        - button "Close" [ref=e87] [cursor=pointer]
+      - generic [ref=e88]:
+        - paragraph [ref=e89]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e90]
+        - paragraph [ref=e91]:
+          - img "Legende" [ref=e92]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e93]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e94]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e95]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e96]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e97]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e98]
+        - paragraph [ref=e99]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e100]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e101] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e103] [cursor=pointer]
+```

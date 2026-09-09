@@ -1,0 +1,138 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e13]:
+        - generic [ref=e14]: "| ₰"
+        - generic [ref=e15]: "| ₰"
+      - generic [ref=e18]:
+        - generic [ref=e19]: ⨯
+        - generic [ref=e20]: "264"
+        - generic [ref=e21]: "Dennoch wird’s unbehaglich⁠ ⁠:"
+        - generic [ref=e24]:
+          - generic [ref=e25]: Er ahnet nicht, was uns von außen droht,
+          - generic [ref=e27]: Laß ihn die Narrentheidung treiben,
+          - generic [ref=e28]: Ihm wird kein Raum für seine Possen bleiben⁠ ⁠;
+          - generic [ref=e29]: Gesetz ist mächtig, mächtiger ist die Not.
+        - text: "Richtlinie⁠ ⁠: »"
+        - generic [ref=e30]:
+          - text: Es genügt für die Wirtschaft nicht,
+          - text: Nationalsozialist zu sein. Die Leistung, nicht die
+          - text: Gesinnung entscheidet⁠ ⁠!
+        - text: « Und dafür ha
+        - deletion [ref=e33]: ben
+        - deletion [ref=e35]: wir
+        - text: ge-
+        - text: kämpft⁠ ⁠? Der Führer prägt das Wort,
+        - generic [ref=e36]:
+          - text: es gelte jetzt
+          - text: "eine Synthese⁠ ⁠: zwischen dem idealistischen National-"
+          - text: sozialismus und den realen Erfordernissen
+        - text: ", also"
+        - generic [ref=e37]:
+          - text: "|dem"
+          - text: Ideellen und dem Materiellen
+        - deletion [ref=e39]: "⁠ ⁠:"
+        - text: "Der Führer opfert sich⁠ ⁠:"
+        - text: er will »vor nichts kapitulieren als vor der Vernunft«,
+        - text: die
+        - deletion [ref=e41]: doch
+        - text: bisher vor ihm kapituliert hat. Sie be-
+        - text: trachten diese Haltung als Fahnenflucht, und pfeifen
+        - generic [ref=e42]: "auf Synthese⁠ ⁠:"
+        - generic [ref=e45]:
+          - generic [ref=e46]: Das sind die saubern Neuigkeiten,
+          - generic [ref=e47]: Wo aus der Kehle, von den Saiten
+          - generic [ref=e48]: Ein Ton sich um den andern flicht.
+          - generic [ref=e49]: Das Trallern ist bei mir verloren,
+          - generic [ref=e50]: Es krabbelt wohl mir um die Ohren,
+          - generic [ref=e51]: Allein zum Herzen dringt es nicht.
+        - text: Wie wird man mit den Gläubigen der Verheißung
+        - generic [ref=e52]: fertig, die sich als Gläubiger der Erfüllung gebärden⁠ ⁠?
+        - generic [ref=e55]:
+          - generic [ref=e57]: Am Ende treiben sie’s nach ihrer Weise fort,
+          - generic [ref=e58]: Als wenn sie nicht erzogen wären.
+        - generic [ref=e59]: "Die Sibylle flüstert⁠ ⁠:"
+        - generic [ref=e63]: Den lieb’ ich, der Unmögliches begehrt.
+        - generic [ref=e64]:
+          - text: Es dunkelt.
+          - deletion [ref=e66]: Vielleicht ein
+          - text: Platz an der Sonne
+          - deletion [ref=e68]: erreichbar¿
+        - generic [ref=e71]:
+          - generic [ref=e72]: Eilet, bequemen
+          - generic [ref=e73]: Sitz einzunehmen,
+          - generic [ref=e74]: Eilig zum Werke⁠ ⁠!
+          - generic [ref=e75]: Schnelle für Stärke.
+          - generic [ref=e76]: Noch ist es Friede⁠ ⁠;
+          - generic [ref=e77]: Baut euch die Schmiede,
+          - generic [ref=e78]: Harnisch und Waffen
+          - generic [ref=e79]: Dem Heer zu schaffen.
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e82]: ⨯
+          - generic [ref=e83]:
+            - text: "|"
+            - deletion [ref=e85]: t man
+            - text: sie
+          - generic [ref=e86]:
+            - text: "| schlechthin |"
+            - generic [ref=e87]: "| zwischen"
+          - generic [ref=e88]: "| ."
+          - generic [ref=e89]: ⨯
+          - generic [ref=e90]:
+            - text: "|"
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - text: "|"
+                - generic [ref=e93]:
+                  - generic [ref=e94]: "| gefällig⁠ ⁠?"
+                  - deletion [ref=e95]: angenehm⁠ ⁠?
+              - deletion [ref=e96]: ⁠ ⁠?
+        - generic [ref=e97]:
+          - generic [ref=e98]: "|"
+          - generic [ref=e99]: "|"
+          - generic [ref=e100]: "|"
+          - generic [ref=e101]: "|"
+          - generic [ref=e102]: "|"
+          - generic [ref=e103]: "|"
+          - generic [ref=e104]: "|"
+          - generic [ref=e105]: "|"
+          - generic [ref=e106]: "|"
+          - generic [ref=e107]: "|"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e111]:
+    - generic [ref=e112]:
+      - generic [ref=e113]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e114]
+        - button "Close" [ref=e115] [cursor=pointer]
+      - generic [ref=e116]:
+        - paragraph [ref=e117]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e118]
+        - paragraph [ref=e119]:
+          - img "Legende" [ref=e120]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e121]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e122]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e123]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e124]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e125]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e126]
+        - paragraph [ref=e127]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e128]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e129] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e131] [cursor=pointer]
+```

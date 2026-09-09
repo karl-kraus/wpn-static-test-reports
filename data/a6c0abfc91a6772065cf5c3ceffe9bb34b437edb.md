@@ -1,0 +1,157 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e13]:
+          - generic [ref=e14]: "| Gab es"
+          - generic [ref=e15]:
+            - text: "| Einer von diesen"
+            - text: "behauptet⁠ ⁠:"
+          - generic [ref=e16]: "| m"
+        - generic [ref=e18]: "| ₰"
+      - generic [ref=e19]:
+        - generic [ref=e20]: "178"
+        - generic [ref=e21]:
+          - text: Doch der Mörder bleibt ohne Ahnung der Tat
+          - text: wie ihrer Wirkung, und er ha
+          - deletion [ref=e23]: i
+          - text: eine Art, sie in den
+          - text: Bereich der Menschheit zurückzunehmen, die ihm|
+          - text: deren Sympathien gewinnen müßte. Es geschah ja
+          - text: doch alles im guten Glauben, welcher |
+          - deletion [ref=e25]: nicht minder
+          - text: von der Welt verlangt wird, die erfährt, wie ein Fall,
+          - text: hingestellt als eine der grausigsten Bluttaten nach
+          - text: einem Verzweiflungsausbruch des Ermordeten, sich
+          - generic [ref=e26]: "in Wahrheit abgespielt hat⁠ ⁠:"
+          - generic [ref=e29]:
+            - text: Dr. Ernst Eckstein, der
+            - generic [ref=e30]:
+              - text: als einer der ersten politischen
+              - generic [ref=e31]:
+                - text: Funktionäre
+                - generic [ref=e32]:
+                  - text: in Schutzhaft
+                  - text: genommen wurde
+          - generic [ref=e33]: — also geradezu ein Akt der Protektion —
+          - generic [ref=e37]:
+            - text: konnte sich nur schwer mit den Bedingungen der
+            - generic [ref=e38]: Haft abfinden . . .
+          - text: Man hatte ausgesprengt,
+          - generic [ref=e39]:
+            - text: diese Bedingungen wären
+            - text: Zwangsarbeit unter Kolbenstößen
+            - deletion [ref=e41]: und
+            - text: Peitschen-
+            - text: hieben ins Gesicht, Einnahme von Ricinus
+            - deletion [ref=e43]: öl
+            - text: ", Teil-"
+            - text: nahme an Sprechchören
+          - text: ", und was dergleichen Miß-"
+          - text: verständnisse mehr sind.
+          - deletion [ref=e45]: Schrieb man
+          - text: doch
+          - deletion [ref=e48]: "|"
+          - deletion [ref=e50]: von
+          - generic [ref=e51]:
+            - text: gelegentliche
+            - deletion [ref=e53]: "n"
+            - text: Rundfahrten durch die Stadt in einem
+            - text: niedrigen Rollwagen, angeblich unter dem Gejohle
+            - text: nationaler Kämpfer, während andere Zuschauer er-
+            - generic [ref=e54]: schüttert weinten.
+          - generic [ref=e57]:
+            - text: Noch vor 14 Tagen war er bei Arbeiten für das Breslauer
+            - generic [ref=e58]: Konzentrationslager beschäftigt.
+          - text: Keineswegs »im«⁠ ⁠; eine Art Bürotätigkeit. Freili
+          - deletion [ref=e60]: h
+          - text: h
+          - text: nicht ohne körperliche Ertüchtigung, die der tatkräf-
+          - text: tige Heines,
+          - generic [ref=e61]:
+            - text: der selbst ein
+            - deletion [ref=e63]: mal
+            - text: ein Beispiel
+            - deletion [ref=e65]: dafür
+            - generic [ref=e66]:
+              - text: gegeben hat
+              - generic [ref=e67]:
+                - text: ","
+                - text: für seine Schutzbefoh
+                - deletion [ref=e69]: i
+                - text: enen vorsieht. |
+          - generic [ref=e72]:
+            - text: Er mußte schwere Steine karren und wurde, wenn wir anderen Ruhe
+            - text: hatten, zum Reinigen der Latrine
+            - deletion [ref=e74]: "n"
+            - text: kommandiert. Während er in deren
+            - generic [ref=e75]: Inhalt herumwühlen mußte, wurde er Besuchern des Lagers gezeigt.
+          - text: Doch, wie das schon so kommt, trotz solcher Ab-
+          - text: lenkung überließ
+          - deletion [ref=e77]: jener
+          - text: sich kopfhängerischer Schwer-
+          - text: mut, zu der er offenbar neigte.
+          - generic [ref=e78]:
+            - text: In einem Anfall,
+            - generic [ref=e79]:
+              - text: nä
+              - deletion [ref=e81]: "n"
+              - text: lich
+            - generic [ref=e83]:
+              - text: von seelischer Depression verübte er in seiner Zelle einen Selbstmord-
+              - text: versuch.
+              - text: Zuletzt verweigerte er die Aufnahme von Nahrung, so daß sie
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - generic [ref=e86]: "| t"
+          - generic [ref=e87]: "| wirklich"
+          - generic [ref=e88]: "| darum"
+          - generic [ref=e89]: "| ,"
+          - generic [ref=e90]: "| ₰"
+          - deletion [ref=e91]: "| sogar"
+          - generic [ref=e92]: "| c"
+          - generic [ref=e93]: "| st"
+          - generic [ref=e94]: "| l"
+          - generic [ref=e95]: "| ₰"
+          - generic [ref=e96]: "| er"
+        - generic [ref=e98]: "| ₰"
+        - generic [ref=e99]:
+          - generic [ref=e100]: "| auch"
+          - generic [ref=e101]: "| auch"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e104]:
+    - generic [ref=e105]:
+      - generic [ref=e106]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e107]
+        - button "Close" [ref=e108] [cursor=pointer]
+      - generic [ref=e109]:
+        - paragraph [ref=e110]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e111]
+        - paragraph [ref=e112]:
+          - img "Legende" [ref=e113]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e114]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e115]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e116]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e117]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e118]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e119]
+        - paragraph [ref=e120]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e121]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e122] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e124] [cursor=pointer]
+```

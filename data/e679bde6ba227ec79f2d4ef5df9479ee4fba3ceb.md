@@ -1,0 +1,138 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e16]:
+        - generic [ref=e17]: "114"
+        - text: Das ist zwar ein
+        - deletion [ref=e19]: bekannter Terminus,
+        - generic [ref=e20]:
+          - text: durch den
+          - text: das Fett nicht billiger wird
+        - text: ","
+        - text: aber
+        - generic [ref=e21]:
+          - text: er bittet die Gegner,
+          - text: fest überzeugt zu sein, daß die Eroberung weiter
+          - text: "-"
+          - text: schreitet, denn die deutsche Volksgemeinschaft sei
+          - generic [ref=e22]:
+            - deletion [ref=e24]: das,
+            - text: was ich zu allerletzt vermutet hätte, nämlich
+          - generic [ref=e27]: kein leerer Wahn.
+        - text: Ja, er versteigt sich zu der Beteuerung,
+        - generic [ref=e28]:
+          - text: dieses Jahr
+          - generic [ref=e29]: 1933 habe einen
+          - generic [ref=e32]:
+            - generic [ref=e33]: "|"
+            - text: Teil der Menschenrechte neu proklamiert
+        - text: was insofern glaubhaft ist, als ja dieser Teil die
+        - text: Vernichtung des andern Teils
+        - deletion [ref=e35]: freigab.
+        - text: Er führt noch
+        - text: die Gegner in dem Punkte ab, wo sie an sein »
+        - generic [ref=e36]:
+          - text: ra-
+          - text: dikales Sprachgefühl
+        - text: « appe
+        - deletion [ref=e38]: ¿
+        - text: iert haben, was ich
+        - deletion [ref=e40]: aber
+        - text: wirksamer mit dem Hinweis auf den Satz besorgen
+        - text: könnte, mit dem er es tut. Dann wendet er ein
+        - text: von Herrschaften abgelegtes Pathos, das aber heute
+        - text: selbst der alte Attinghausen verschmähen würde,
+        - generic [ref=e41]: "an sein Volk, das sich hier seinen Weg bahne⁠ ⁠:"
+        - generic [ref=e44]:
+          - text: Wer wäre ich, mich auszuschließen, weiß ich denn etwas Besseres
+          - generic [ref=e45]: — nein⁠ ⁠!
+        - text: Ich kann das nicht nachempfinden, so vertraut ich
+        - text: mit der Sprache seines Volkes bin.
+        - generic [ref=e46]:
+          - text: Er jedoch »dankt«
+          - text: sie seinem Volk| aus dem die Ahnen stammen, zu
+          - text: dem die Kinder zurückkehren
+        - text: ⁠ ⁠;
+        - generic [ref=e47]:
+          - text: er wolle es nach
+          - text: Maßgabe seiner Kräfte leiten und wenn’s ihm nicht
+          - generic [ref=e48]: "gelänge, es bliebe sein Volk⁠ ⁠:"
+          - generic [ref=e51]: Volk ist viel⁠ ⁠!
+        - generic [ref=e52]:
+          - text: Denn es g
+          - deletion [ref=e54]: ibt
+          - text: Augenblicke, wo dies ganze gequ
+          - deletion [ref=e56]: e
+          - text: lte
+          - generic [ref=e57]: "Leben versinkt, und nichts ist da als⁠ ⁠:"
+          - generic [ref=e60]: Volk.
+        - text: Ganz schön, nur der Ergänzung entbehrend, daß es
+        - text: auch noch andere Völker gibt und daß wenn sie
+        - text: sich alle für auserwählt h
+        - deletion [ref=e62]: ie
+        - text: lten
+        - deletion [ref=e64]: ","
+        - text: die Apokalypse ein
+        - text: Kinderspiel wäre
+        - generic [ref=e65]:
+          - text: gegen das dicke Ende, das als das
+          - text: letzte nachkommt
+        - text: . Aber was macht sich Benn |aus
+        - generic [ref=e66]: "Europa⁠ ⁠! Einen Hohn⁠ ⁠:"
+      - generic [ref=e67]:
+        - generic [ref=e68]:
+          - generic [ref=e69]: "| Feuilletonbegriff,"
+          - generic [ref=e70]: ⨯
+          - generic [ref=e71]: "| etwas,"
+          - generic [ref=e72]: "|"
+          - generic [ref=e73]: "| erlaubte."
+          - generic [ref=e74]: "| ll"
+          - generic [ref=e75]: "| ,"
+          - generic [ref=e76]: "| ebe"
+          - generic [ref=e77]: "| a"
+          - generic [ref=e78]: "| schon"
+        - generic [ref=e79]:
+          - generic [ref=e80]: "| noch"
+          - generic [ref=e81]: ⨯
+          - generic [ref=e82]: ⨯
+          - generic [ref=e83]: "| wollten,"
+        - generic [ref=e84]:
+          - generic [ref=e85]: ⨯
+          - generic [ref=e86]: "| ä"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e89]:
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e92]
+        - button "Close" [ref=e93] [cursor=pointer]
+      - generic [ref=e94]:
+        - paragraph [ref=e95]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e96]
+        - paragraph [ref=e97]:
+          - img "Legende" [ref=e98]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e99]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e100]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e101]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e102]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e103]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e104]
+        - paragraph [ref=e105]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e106]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e107] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e109] [cursor=pointer]
+```

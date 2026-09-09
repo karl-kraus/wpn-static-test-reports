@@ -1,0 +1,128 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e13]:
+          - generic [ref=e14]: "| jener"
+          - generic [ref=e15]: "| e"
+          - generic [ref=e16]: "| tl"
+        - generic [ref=e18]: "| als"
+      - generic [ref=e19]:
+        - generic [ref=e20]: "150"
+        - generic [ref=e21]:
+          - text: Der Unterschied liegt nur in einer ethischen
+          - text: Instrumentierung, derengleichen nicht
+          - deletion [ref=e23]: geschaut ist,
+          - generic [ref=e24]:
+            - deletion [ref=e26]: seit
+            - text: "|Macbeth den Schlaf gemordet hat"
+          - text: . Erschüttert
+          - text: und gespannt verfolgt die Welt, die noch in Denk-
+          - text: formen läuft, diesen Wettkampf der Worte mit den
+          - text: Taten, der Taten mit den Worten, des Ausgangs
+          - text: harrend. Hält sie sich mehr an die Worte und deren
+          - text: kriegerischen Sinn,
+          - generic [ref=e27]:
+            - text: so wird ihr die Antwort, man
+            - text: müsse das Reich mehr nach den Taten beurteilen
+          - text: ⁠ ⁠;
+          - text: verweist sie auf diese,
+          - generic [ref=e28]:
+            - text: so wird die Reichstagsrede
+            - text: zitiert
+          - text: . Beruft sie sich auf den Widerspruch, so sind
+          - text: es
+          - generic [ref=e29]:
+            - text: Begleiterscheinungen, die den Kern der Revolution
+            - text: nicht berühren können, welche legal ans Ruder ge-
+            - text: langt ist
+          - text: ⁠ ⁠; überdies
+          - generic [ref=e30]:
+            - text: sei eine Evolution in Aussicht
+            - text: genommen
+          - text: ", denn die Revolution ist abgeschlossen"
+          - text: und ihre gewaltigen Erfolge gebieten Ehrfurcht,
+          - text: aber sie steht erst an ihrem Anfang und
+          - generic [ref=e31]:
+            - text: was bis
+            - text: heute geschehen ist, ist bloß ein Kinderspiel
+          - text: ","
+          - generic [ref=e32]:
+            - text: vorerst
+            - text: müssen die Kommissare weg
+          - text: ", und wenn verant-"
+          - text: wortungslose Elemente eingreifen, so
+          - generic [ref=e33]:
+            - text: geht uns aus
+            - text: dem Wege, sonst räumen wir euch aus dem Wege
+          - text: und übernehmen dafür auch die volle Verantwortung.
+          - text: Unter solchen Umständen zieht es die Welt wieder
+          - text: vor, sich an die Worte zu halten, und begnügt sich,
+          - text: um für die Greuelpropaganda hinreichend informiert
+          - text: zu sein, mit deren jeweiliger Aufklärung wie ins-
+          - text: besondere mit der Versicherung,
+          - generic [ref=e34]:
+            - text: daß die Partei bis-
+            - text: her Großmut bewiesen habe, die von den Gegnern
+            - text: als Schwäche ausgelegt wurde
+          - text: . Die Taten, die nun
+          - text: folgen, sind bloß die begreifliche Reaktion auf die
+          - text: Besorgnis der Welt wegen der Taten. Dadurch er-
+          - text: g
+          - deletion [ref=e36]: ə
+          - text: ben sich neue Mißverständnisse| welche einige
+          - text: Verwirrung hervorrufen, die aber schließlich doch
+          - text: eine gewisse Übersicht gewährt, umso leichter als
+          - text: täglich Rich
+          - deletion [ref=e38]: t
+          - text: in
+          - deletion [ref=e40]: ı
+          - text: en ausgegeben werden. Das geht so
+          - text: von der Feststellung an,
+          - generic [ref=e41]:
+            - text: daß alles was geschah zur
+            - text: Rettung vor den Kommunisten geschah
+          - text: ", angefangen"
+          - text: vom Reichstagbrand, der durch sie geschah.
+          - text: Es er-
+      - generic [ref=e43]:
+        - generic [ref=e44]: "| bekannt war,"
+        - generic [ref=e45]: "| ,"
+        - generic [ref=e46]: "| i"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e51]:
+    - generic [ref=e52]:
+      - generic [ref=e53]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e54]
+        - button "Close" [ref=e55] [cursor=pointer]
+      - generic [ref=e56]:
+        - paragraph [ref=e57]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e58]
+        - paragraph [ref=e59]:
+          - img "Legende" [ref=e60]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e61]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e62]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e63]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e64]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e65]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e66]
+        - paragraph [ref=e67]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e68]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e69] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e71] [cursor=pointer]
+```

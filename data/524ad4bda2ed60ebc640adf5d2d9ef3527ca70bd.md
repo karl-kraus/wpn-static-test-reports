@@ -1,0 +1,98 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e14]: "| ß"
+      - generic [ref=e17]:
+        - generic [ref=e18]: "44"
+        - text: sondern daß er aus dem gleichen Grund nicht mehr
+        - generic [ref=e19]: auf (hinauf) sehen kann.
+        - generic [ref=e21]:
+          - generic [ref=e22]: Wer will Beweise⁠ ⁠? — millionenfach wir können sie zeigen
+          - generic [ref=e23]: Juden raus⁠ ⁠!
+        - text: Sie haben ja sogar auf die Wortstellung des deutschen
+        - generic [ref=e24]: "Dichters abgefärbt, und überhaupt⁠ ⁠:"
+        - generic [ref=e29]:
+          - text: Deutsche Kunst und Kultur nicht mehr war zu
+          - generic [ref=e30]: sehn
+        - generic [ref=e31]: "Da gibt es nur eines⁠ ⁠:"
+        - generic [ref=e33]:
+          - generic [ref=e35]: — zum deutsche Geschäftsmann geht hinein
+          - generic [ref=e37]: Soll der kaputt sein, soll es so sein⁠ ⁠?
+          - generic [ref=e38]: Juden raus⁠ ⁠!
+        - generic [ref=e39]: "Die Sache spricht für sich⁠ ⁠:"
+        - generic [ref=e41]:
+          - generic [ref=e42]: Juda hat uns erklärt den Krieg
+          - generic [ref=e44]: Uns dem deutschen 65 Millionenvolk
+          - generic [ref=e46]: Frei wollen wir leben gottgewollt
+          - generic [ref=e47]: Juden raus⁠ ⁠!
+        - generic [ref=e48]: In späteren Zeiten wird man Gott danken|
+        - generic [ref=e52]: Daß man endlich der Volksausbeuter sich entwandt
+        - generic [ref=e53]: Kommen sie »nicht sofort zur Räson«, schließt er|
+        - generic [ref=e57]: Dann raus mit dem Jud⁠ ⁠!
+        - text: Da
+        - deletion [ref=e59]: s
+        - text: hier noch Unsicheres, Relatives, Mehrdeutiges
+        - text: gegeben sei, wird niemand behaupten. Gleichwohl
+        - text: dürfte man es nicht
+        - generic [ref=e60]:
+          - text: mit jenem Dieboldschen Begriff
+          - text: von Volkslied und deutscher Sage zu tun haben,
+          - text: der mit den Gebilden Goethes die Sprache gemein-
+          - text: sam hat
+        - text: . Ich glaube nicht, daß der Dichter etwa
+        - text: eine besondere Beziehung zur »Pandora«
+        - deletion [ref=e62]: hat,
+        - text: wenn-
+        - text: gleich er offenbar eine Faustnatur
+        - text: ist und wohl
+        - text: auch vom Götz wenigstens das Unentbehrlichste
+        - deletion [ref=e64]: ¿
+        - text: wissen mag. Was aber sein Ceterum censeo
+        - text: betrifft, daß die Juden, wenn sie nicht zur Räson
+        - text: kommen, raus müssen, so hat es insofern seinen
+        - text: Zweck verfehlt, als sie teils schon zu ihr gekommen
+        - text: sind, teils aber keinen Paß kriegen, auch wenn sie
+      - generic [ref=e66]:
+        - generic [ref=e67]: "| ,"
+        - generic [ref=e68]: "| ,"
+        - generic [ref=e69]: "|✓"
+        - generic [ref=e70]: "| unterhält,"
+        - generic [ref=e71]: "| ₰"
+        - generic [ref=e72]: "|✓"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e77]:
+    - generic [ref=e78]:
+      - generic [ref=e79]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e80]
+        - button "Close" [ref=e81] [cursor=pointer]
+      - generic [ref=e82]:
+        - paragraph [ref=e83]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e84]
+        - paragraph [ref=e85]:
+          - img "Legende" [ref=e86]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e87]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e88]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e89]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e90]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e91]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e92]
+        - paragraph [ref=e93]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e94]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e95] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e97] [cursor=pointer]
+```

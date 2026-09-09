@@ -1,0 +1,159 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e13]:
+        - generic [ref=e14]: "| —"
+        - generic [ref=e15]: "| duz"
+        - generic [ref=e16]: "| pressend"
+        - generic [ref=e17]: "| vernehm"
+        - generic [ref=e18]: "|"
+        - generic [ref=e19]: "| l"
+        - generic [ref=e20]: "| ₰"
+        - generic [ref=e21]: "| erklärlich"
+      - generic [ref=e24]:
+        - generic [ref=e25]: "209"
+        - text: den Kulturbelangen
+        - deletion [ref=e28]: "|"
+        - text: österreichischer Gegenwart zu-
+        - text: zuneigen, die ich nach wie vor in Verdacht habe,
+        - text: daß sie beim christlich-germanischen Schönheitsideal
+        - text: hinauswollen. Um das Geistesleben ist es mir nicht
+        - text: zu tun
+        - deletion [ref=e30]: ","
+        - text: das besorge ich
+        - generic [ref=e32]:
+          - deletion [ref=e34]: schon
+          - deletion
+        - text: selbst⁠ ⁠! Aber es geht
+        - text: darum, daß die Basis des Lebens gesichert wird,
+        - text: welche mir durch eine Beeinträchtigung der Preßfrei-
+        - text: heit
+        - text: keineswegs alteriert erscheint. Nicht einmal
+        - text: durch die Re
+        - deletion [ref=e36]: dig
+        - text: ierung der Titel, den Griff an den
+        - text: Lebensnerv der Meinungstyrannis, die Bändigung
+        - text: der Gehirnparasiten
+        - deletion [ref=e38]: ","
+        - text: durch ein kulturbewußtes Wag-
+        - text: nis, zu dem mehr Mut gegen die Presse gehört als
+        - text: der von Gleichschaltern, die, den Ausdruck eigenen
+        - text: Willens er
+        - deletion [ref=e40]: zwingend
+        - text: ", der Kritik entzogen bleiben —"
+        - deletion [ref=e42]: ","
+        - text: Tat und Wohltat, für die jede Seite der ‚Fackel‘
+        - text: Vorwort und Dank enthält⁠ ⁠; und deren Wirkung im
+        - text: erstickten Marktschrei wie im knirschenden Verdruß
+        - text: der Händler
+        - deletion [ref=e44]: merk
+        - text: bar wird. Jetzt müßte nur noch die
+        - text: Reduzierung des Textes folgen, und alles wäre in
+        - text: Ordnung
+        - deletion [ref=e46]: .
+        - text: Ich teile die fortschrittliche Meinung, daß
+        - text: derlei bisher weder im liberalen noch im absolu-
+        - text: tistischen Österreich mög
+        - deletion [ref=e48]: ¿
+        - text: ich war
+        - deletion [ref=e50]:
+          - generic [ref=e52]:
+            - deletion [ref=e53]: "⁠ ⁠:"
+            - deletion
+        - text: die Entschlossen-
+        - text: heit, die ohne demokratisches Bedenken das Gesetz
+        - text: der Trägheit bricht und gegenüber dem Verhängnis
+        - text: zeigt, daß halt doch etwas zu machen ist.| Was diese
+        - text: meine
+        - deletion [ref=e55]: r
+        - text: Haltung betrifft, so
+        - deletion [ref=e57]: ist
+        - text: sie, weil ich bei der
+        - text: Sozialdemokratie untendurch bin,
+        - text: vielleicht aus dem
+        - text: Wunsch
+        - deletion [ref=e59]: zu erklären
+        - text: ", bei den Christlichsozialen oben-"
+        - text: auf zu sein⁠ ⁠; sicher |aus dem Erlebnis, daß zum ersten-
+        - text: mal die Kongruenz
+        - text: des Einzelinteresses, welches auf
+        - text: Bewahrung der Daseins- und Wirkensmöglichkeit
+        - text: abzielt, mit dem Staatswillen erkennbar wird, und
+        - generic [ref=e60]:
+          - text: ⁠ ⁠; wäre sie
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - text: "|"
+              - deletion [ref=e64]: ¿¿¿¿¿¿
+            - deletion [ref=e65]: früher
+          - generic [ref=e66]:
+            - generic [ref=e67]: "| vordem"
+            - deletion [ref=e68]: erfolgt[?]
+          - text: und überall auf der Welt erfolgt,
+          - deletion [ref=e70]: ¿¿¿¿¿¿¿¿¿
+          - text: diese hätte keinen
+          - generic [ref=e71]: Krieg zu bereuen und keinen Hitler zu fürchten.
+        - generic [ref=e72]:
+          - text: Ich
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - text: "|"
+              - deletion [ref=e76]: trete
+              - text: betrete
+            - deletion [ref=e77]: betrete
+          - text: mit dieser Wahrnehmung beiweitem nicht
+          - generic [ref=e78]:
+            - generic [ref=e79]: "| das"
+            - deletion [ref=e80]: ¿¿¿¿¿¿¿¿¿
+          - text: Feld der Politik, sondern im Gegenteil das der
+          - text: Logik. Die bereiteste Abwehr gegen die Restauration einer Geistigkeit der Lorbeerreiser, der stärkste Widerstand gegen
+          - text: ein System, das die Arbeiterschaft für die Sünde ihrer falschen Befreier büßen lassen wollte, hat vor der Anerkennung
+          - generic [ref=e81]: des Einmaleins, das ihr das Leben rettet, zu verzichten.
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - deletion [ref=e84]: "| einer"
+          - deletion [ref=e85]: "|"
+          - generic [ref=e86]: "| ⁠ ⁠;"
+          - generic [ref=e87]: "| ₰"
+          - deletion [ref=e88]: "| —"
+          - generic [ref=e89]: "|"
+          - generic [ref=e90]: "| wird"
+          - generic [ref=e91]: "| aber"
+        - generic [ref=e93]: "| ⁠ ⁠:"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e97]:
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e100]
+        - button "Close" [ref=e101] [cursor=pointer]
+      - generic [ref=e102]:
+        - paragraph [ref=e103]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e104]
+        - paragraph [ref=e105]:
+          - img "Legende" [ref=e106]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e107]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e108]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e109]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e110]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e111]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e112]
+        - paragraph [ref=e113]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e114]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e115] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e117] [cursor=pointer]
+```

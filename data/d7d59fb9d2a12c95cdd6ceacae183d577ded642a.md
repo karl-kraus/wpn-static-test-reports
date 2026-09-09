@@ -1,0 +1,127 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: "50"
+          - text: Maß Billingers
+          - text: einschränkt. Es ist nicht wahr, daß
+          - text: sich die deutsche Seele am Kämpferischen genugtut⁠ ⁠;
+          - text: per aspera geht es immer auch ad astra, und der
+          - text: kulturelle Aspekt dessen, was errungen wurde, ver-
+          - text: heißt den Aufschwung von der Stofflichkeit eines
+          - text: Höllenbreughel zu Herzblättchens Zeitvertreib. Die
+          - deletion [ref=e19]: V
+          - text: öl-
+          - text: kische Literatur wird, wenn erst einmal die Schlacken
+          - text: abgeworfen sind, sich der Zielsetzung, die im Hotel
+          - text: Kaiserhof besprochen wurde, würdig erweisen, und
+          - text: man geht gewiß nicht fehl, wenn man ihr eine Ent-
+          - text: wicklung voraussagt, die im Ausdruck des Wehr-
+          - text: willens bis zu Körner
+          - text: ", in der Bejahung der Genuß-"
+          - text: rechte zu Baumbach
+          - text: vorwärts dringt. (Die Verbindung
+          - text: der Elemente erfolgt im Militärschwank).
+          - generic [ref=e20]:
+            - text: Dem Mäg-
+            - text: delein werden die Zö
+            - deletion [ref=e22]: p
+            - text: chen noch wachsen
+          - text: ","
+          - generic [ref=e23]:
+            - text: die Lorelei
+            - text: wird ihr goldenes Haar kämmen
+          - text: ", und man wird kein"
+          - deletion [ref=e25]: s
+          - text: drin finden, das von Heine
+          - text: ist, noch auch
+          - generic [ref=e26]:
+            - text: die Leichen
+            - generic [ref=e27]:
+              - text: im
+              - text: ruhigfließenden Rhein
+          - text: . Die Abklärung vollzieht sich
+          - text: stürmisch.
+          - generic [ref=e28]:
+            - text: Nachdem man die Spreu vom Weizen ge-
+            - text: sondert, diesen verbrannt und mit der Wurfschaufel
+            - text: Juden totgeschlagen hat
+          - text: ", wird man ihre hinterlassenen"
+          - generic [ref=e29]:
+            - text: Sprach
+            - deletion [ref=e31]: s
+            - text: ätze als Schmückedeinheim behalten.
+        - generic [ref=e32]:
+          - text: Daß für den Aufbau und insbesondere den »
+          - generic [ref=e33]:
+            - text: ideo-
+            - text: logischen Überbau
+          - text: « eines Lebens, das schon Seneca
+          - text: gemeint haben muß, wenn er »vivere est militare«
+          - text: erkannte — daß für derlei die Philosophie nicht müßig
+          - text: zu sein hat, versteht sich von selbst, und so leicht
+          - text: wie eine, die zu einer richtiggehenden Walpurgisnacht
+          - generic [ref=e34]: gehört,
+          - generic [ref=e36]:
+            - generic [ref=e37]: Denn wo Gespenster Platz genommen,
+            - generic [ref=e38]: Ist auch der Philosoph willkommen.
+          - text: Aber wie macht er es, und vor allem
+          - deletion [ref=e40]: ¿
+          - text: wie findet man
+          - text: ihn⁠ ⁠? Es mag ja an und für sich schw
+          - deletion [ref=e42]: ierig
+          - text: sein, mit
+          - text: dem, was man von den Circenses hört, die andauernd
+          - text: in den Kasernen und Lagern geboten werden, solange
+          - text: das Problem der Panis-Beschaffung noch nicht gelöst
+          - text: "ist⁠ ⁠: mit der Anwendung von Stahlruten und"
+          - generic [ref=e43]:
+            - text: Nil-
+            - text: pferdpeitschen
+          - text: ", mit Gelenksübungen für Gelähmte,"
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]: "| v"
+          - generic [ref=e47]: "| pf"
+          - generic [ref=e48]: "| sch"
+          - generic [ref=e49]: "| ⁠ ⁠:"
+          - generic [ref=e50]: "| er"
+        - generic [ref=e52]: "| es"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e56]:
+    - generic [ref=e57]:
+      - generic [ref=e58]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e59]
+        - button "Close" [ref=e60] [cursor=pointer]
+      - generic [ref=e61]:
+        - paragraph [ref=e62]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e63]
+        - paragraph [ref=e64]:
+          - img "Legende" [ref=e65]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e66]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e67]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e68]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e69]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e70]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e71]
+        - paragraph [ref=e72]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e73]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e74] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e76] [cursor=pointer]
+```

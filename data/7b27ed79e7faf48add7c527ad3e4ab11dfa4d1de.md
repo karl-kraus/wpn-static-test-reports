@@ -1,0 +1,154 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e15]:
+        - generic [ref=e18]:
+          - generic [ref=e19]: "237"
+          - generic [ref=e20]:
+            - text: Tag die Vereinigten Vaterländischen Verbände Bayerns gegen
+            - text: „die gemeinste Verhöh
+            - generic [ref=e21]:
+              - text: nun
+              - generic [ref=e22]: nun
+            - text: g des toten Frontsoldaten“ pro-
+            - text: testieren;es sei,wie wenn Proletarier gegen die „Weber“ protes-
+            - text: tierten,„weil sie sich in der Darstellung ihres Schicksals
+            - text: und ihrer Leiden verhöhnt fühlten“.Statt der Schieber,hätten
+            - text: sich die Geschobenen gemeldet.
+            - generic [ref=e23]:
+              - text: F
+              - generic [ref=e24]: E
+            - text: s war |
+            - generic [ref=e25]: "| aber"
+            - text: umso interessanter,als
+            - text: dieselben Wortführer dort,wo ihnen das Rassenmerkmal gelegen
+            - text: kam,die analoge Betrachtung des Frontsoldaten für ihre Zwecke
+            - text: benützt hatten,indem sie,
+            - generic [ref=e26]:
+              - generic [ref=e27]: "| wenngleich ohne Erlaubnis,"
+              - deletion [ref=e28]: natürlich ohne autorisiert zu sein
+            - text: ","
+            - text: in einem Flug
+            - generic [ref=e29]:
+              - text: "n"
+              - generic [ref=e30]: b
+            - text: latt jene Hyänenszenen der „Letzten Nacht“ ver-
+            - text: breiteten,deren Sprecher de
+            - generic [ref=e31]:
+              - text: s
+              - generic [ref=e32]: "n"
+            - text: toten Frontsoldaten doch
+            - generic [ref=e33]:
+              - text: "|"
+              - generic [ref=e34]: "| wahrlich"
+              - text: exemplarisch verhöhnen.
+            - deletion [ref=e36]: spotten.
+            - text: Schon damals,
+            - generic [ref=e37]:
+              - generic [ref=e38]: "| bei solchem"
+              - deletion [ref=e39]: gegenüber dem
+            - text: Mangel jeder Ahnung
+            - generic [ref=e40]:
+              - deletion [ref=e41]: über
+              - text: von
+            - deletion [ref=e43]: die
+            - generic [ref=e44]:
+              - text: i
+              - generic [ref=e45]: I
+            - text: dentität der Ansicht
+            - deletion [ref=e47]: en
+            - text: und der Autorschaft,habe ich
+            - generic [ref=e48]:
+              - deletion [ref=e49]: der
+              - text: die
+            - text: Problematik zwischen Wahnschaffe und Schwarz=Gelber
+            - generic [ref=e50]:
+              - generic [ref=e51]: "| bezeichnet:"
+              - deletion [ref=e52]: den Aus-
+            - deletion [ref=e54]: druck gegeben,
+            - text: es sei
+            - generic [ref=e55]:
+              - generic [ref=e56]: "| besser"
+              - deletion [ref=e57]: wirklich noch erfreulicher
+            - text: ",vo"
+            - generic [ref=e58]:
+              - text: r
+              - generic [ref=e59]: "n"
+            - text: der Stu-
+            - text: pidität an die Seite der Schakale und Hyänen gerückt zu wer-
+            - text: den, als ihr
+            - deletion [ref=e61]: e
+            - text: Helfer gegen diese zu sein.Die Schwierigkeit,
+            - text: die sich der nationalen
+            - generic [ref=e62]:
+              - generic [ref=e63]: "| Kultur"
+              - deletion [ref=e64]: Kellner
+            - text: kritik nicht nur durch die
+            - text: Divergenzen innerhalb meines Gesamtwerk
+            - deletion [ref=e66]: e
+            - text: s,sondern schon in
+            - deletion [ref=e68]:
+              - text: "-"
+              - text: nerhalb
+            - text: einer und derselben Partie ergibt,macht es begreif-
+            - text: lich,dass sie mich bei der Säuberung übergangen hat,was mir
+            - text: vielfach den Verdacht zugezogen hat,dass sie mich rechts
+            - text: liegen liess.
+        - generic [ref=e70]:
+          - deletion [ref=e72]:
+            - text: Aber solche Schwierigkeit |
+            - deletion [ref=e73]: "| meiner Autorschaft"
+            - text: wiegt nichts gegenüber
+            - text: der Mühsal des Versuchs
+          - text: "|,die Sprache ariogermanischen Wesens"
+          - text: zu deuten,
+          - generic [ref=e74]:
+            - generic [ref=e75]: "| als"
+            - deletion [ref=e76]: wenn
+          - text: derjenige
+          - deletion [ref=e78]: ","
+          - deletion [ref=e80]: das Wagnis unternimmt
+          - text: ",der sie ihm"
+          - text: wiedergegeben hat und dem mit der Berechtigung
+          - deletion [ref=e82]: auch der
+          - generic [ref=e83]: Und doch hat es kein Autor schwerer
+      - generic [ref=e86]:
+        - generic [ref=e87]: "|"
+        - generic [ref=e88]: "|"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e92]:
+    - generic [ref=e93]:
+      - generic [ref=e94]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e95]
+        - button "Close" [ref=e96] [cursor=pointer]
+      - generic [ref=e97]:
+        - paragraph [ref=e98]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e99]
+        - paragraph [ref=e100]:
+          - img "Legende" [ref=e101]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e102]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e103]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e104]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e105]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e106]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e107]
+        - paragraph [ref=e108]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e109]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e110] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e112] [cursor=pointer]
+```

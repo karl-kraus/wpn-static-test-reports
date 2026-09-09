@@ -1,0 +1,97 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e10]:
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - generic [ref=e18]: "25"
+          - text: toten Satiriker für den lebenden in Strafe zu neh-
+          - text: men
+        - text: . Sie hat sich inzwischen der Vorschrift, über-
+        - text: haupt keine Meinung zu haben, anpassen müssen,
+        - text: wiewohl ein starker finanzieller Rückhalt ihr die
+        - text: förmliche Gleichschaltung zu ersparen und ein
+        - text: wenig von jener relativen Sauberkeit, die nicht viel
+        - text: wert ist, zu bewahren schien,
+        - text: innerhalb eines
+        - text: Metiers, dessen ersetzbare Gesinnung durch mein
+        - text: Wirken
+        - deletion [ref=e20]: bis jetzt
+        - text: nicht weltkundig war. Ist es mir
+        - text: doch beiweitem nicht gelungen, diese so zur
+        - text: Anschauung zu bringen, wie es »schlagartig« der
+        - text: kühne Handstreich vermocht hat, mit dem die Er-
+        - text: pressung an den Erpressern begangen wurde, jener
+        - text: Zugriff, der so manchen Piraten zwang, sich von|
+        - text: Aktien eines Familienbesitzes an öffentlicher Mei-
+        - text: nung zu trennen und das Raubschiff politischen
+        - text: Korsaren zu überlassen. Die
+        - deletion [ref=e22]: ‚
+        - text: Frankfurter Zeitung
+        - deletion [ref=e24]: ‘
+        - text: half sich eine zeitlang, wie sie konnte, und sie
+        - text: konnte nicht umhin, die »
+        - generic [ref=e25]:
+          - text: Verkündigung des
+          - deletion [ref=e27]: d
+          - text: ritten
+          - text: Reiches
+        - text: « durch Herrn Johst
+        - text: als etwas zu empfinden,
+        - text: das »an die Herzen schlägt«. Bald erklärte sie offen-
+        - text: herzig,
+        - generic [ref=e28]:
+          - text: daß sie den Zwiespalt zwischen ihrem Freisinn
+          - text: und dem »Lebensstil der Unerbittlichkeit« nicht mehr
+          - text: fühle
+        - text: ", wiewohl sie von einem Stück des Dramatikers"
+        - generic [ref=e29]: "Goebbels zugeben mußte⁠ ⁠:"
+        - generic [ref=e32]:
+          - text: Kunst als objektive Lebensbetrachtung
+          - generic [ref=e33]: im Sinne Goethes
+          - text: ist
+          - generic [ref=e34]: nicht erstrebt.
+        - text: Drückte sie sich nun redaktionell um die Erkenntnis
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]: "| ₰"
+          - generic [ref=e38]: "| den"
+          - generic [ref=e39]: "| ₰"
+          - generic [ref=e40]: "| D"
+        - generic [ref=e42]: "| ₰"
+  - dialog "Hinweise zur Nutzung" [active] [ref=e46]:
+    - generic [ref=e47]:
+      - generic [ref=e48]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e49]
+        - button "Close" [ref=e50] [cursor=pointer]
+      - generic [ref=e51]:
+        - paragraph [ref=e52]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e53]
+        - paragraph [ref=e54]:
+          - img "Legende" [ref=e55]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e56]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e57]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e58]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e59]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e60]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e61]
+        - paragraph [ref=e62]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e63]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e64] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e66] [cursor=pointer]
+```

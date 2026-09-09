@@ -1,0 +1,105 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - text: › ›
+  - main [ref=e2]:
+    - generic [ref=e17]:
+      - generic [ref=e18]: "274"
+      - text: aber keinen Ruhm in Anspruch nehme, ohne die Kontrastwirkung
+      - text: zu genießen, so muß, schon aus Gründen der unbestechlichen
+      - text: Rechtlichkeit, verzeichnet werden, daß die Aussprache, die
+      - text: ich dem Ariogermanentum ermöglicht habe, auch die folgende
+      - generic [ref=e19]:
+        - text: "Version zuließ:"
+        - generic [ref=e21]: col.
+      - generic [ref=e24]:
+        - text: Kraus gehört zu einem teilweise syphilitisch verseuchten
+        - text: Kreise von jüdischen Literaten, in dem die Schändung von
+        - generic [ref=e25]: Frauenspersonen an der Tagesordnung ist.
+      - generic [ref=e27]: garm.
+      - text: Der
+      - generic [ref=e28]:
+        - text: w
+        - generic [ref=e29]: W
+      - text: ortlaut ist leider nicht mehr mit voller Genauigkeit
+      - text: feststellbar, aber die gerechte Einschränkung betreffs der
+      - text: Krankheit, die von normwidrigem Umgang nicht abhält, war ge-
+      - text: macht worden, jedenfalls hatte der Theaterkritiker in Wahr-
+      - text: nehmung berechtigter Interessen gehandelt,
+      - generic [ref=e30]:
+        - text: für die er auch
+        - text: von der Nürnberger Justiz freigesprochen wurde
+      - text: .
+      - generic [ref=e31]:
+        - text: Er soll mit
+        - text: dem Urheber eines radikalern Judenboykotts
+        - text: identisch sein
+      - text: ","
+      - text: der dann allerdings auch eingeschränkt wurde. Wie man nicht
+      - text: genug vorsichtig mit solchen Hinweisen auf das Privatleben
+      - text: sein kann, beweist das Vorgehen kommunistischer Verleumder,
+      - generic [ref=e32]:
+        - text: die im Vorstrafenverzeichnis der Biographie nationaler Vor-
+        - text: kämpfer gerade diesem Mann, auf den bloßen Anschein seiner
+        - text: Lehrtätigkeit hin, Kinderschändung nachsagten
+      - text: .
+      - text: Der publizi-
+      - text: stische Irrtum, den er selbst
+      - generic [ref=e33]:
+        - text: g
+        - generic [ref=e34]: b
+      - text: eging, ist auf ein Mißverständ-
+      - text: nis meines „Traumstücks“ zurückzuführen, das gerade die Ver-
+      - text: schiedenartigkeit beweist, mit der nationalsozialistische
+      - text: Köpfe auf mein Schaffen reagieren. Dem Nürnberger Kritiker,
+      - generic [ref=e35]:
+        - text: der in zweiter Instanz zu einer kleinen Geldstrafe verurteilt
+        - text: wurde
+      - text: ","
+      - text: war wie dem Schriftleiter des ,Völkischen Beobachter',
+      - text: der gleich eine größere bekam,
+      - text: nationale Erregung zugebilligt
+      - text: worden, da sie fanden,
+      - generic [ref=e36]:
+        - text: jenes Werk stelle die frechste Ver-
+        - text: höhnung aller für ihr Vaterland gefallenen Frontkämpfer dar,
+        - text: die jemals auf offener Bühne vor sich gegangen sei
+      - text: . Damals
+      - text: konnte sich noch in Deutschland eine Stimme erheben,
+      - generic [ref=e37]:
+        - text: die da
+        - text: meinte, nichts mache die geistige Situation deutlicher als
+  - dialog "Hinweise zur Nutzung" [active] [ref=e44]:
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - heading "Hinweise zur Nutzung" [level=2] [ref=e47]
+        - button "Close" [ref=e48] [cursor=pointer]
+      - generic [ref=e49]:
+        - paragraph [ref=e50]: Die Darstellung ist derzeit für die Browser Chrome und Edge optimiert.
+        - heading "Infospalte rechts (bei kleinen Bildschirmen standardmäßig minimiert)" [level=3] [ref=e51]
+        - paragraph [ref=e52]:
+          - img "Legende" [ref=e53]
+          - text: öffnet die Legende.
+          - img "Highlighting" [ref=e54]
+          - text: aktiviert das Highlighting, das per Mouse-Over Relationen innerhalb der Transkription ausleuchtet (etwa zwischen Korrekturzeichen im Drucktext und Ergänzung am Rand) sowie die zwischen Transkription und Infospalte (zur Identifikation der Bearbeitungsschichten).
+          - 'img "Synoptic View: Facsimile and Info Column" [ref=e55]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Columns and Info Column" [ref=e56]'
+          - text: /
+          - 'img "Synoptic View: Text and Info Column" [ref=e57]'
+          - text: /
+          - 'img "Synoptic View: Facsimile, Text Rows and Info Column" [ref=e58]'
+          - text: erlaubt das Wechseln zwischen synoptischer Ansicht, Einzelansichten von Faksimile und Transkription sowie vertikaler Synopse.
+        - heading "„Bearbeitungsspuren“" [level=3] [ref=e59]
+        - paragraph [ref=e60]:
+          - text: Der Eintrag listet die verschiedenen Schreibwerkzeuge und, wo vorhanden, Angaben zu Hand und Zeitpunkt.
+          - text: Darin die Auflistung „Überschreibende Korrekturen“ zeigt bei Mouse-Over über dem jeweiligen Eintrag (und aktiviertem Highlighting) zur leichteren Auffindung die Stellen in der Transkription an.
+          - text: Die Auflistung „Markierung für die Fackel Nr. 890–905“ listet die Markierungen, die 1934 für die Übernahme in die Fackel Nr. 890–905 angebracht wurden.
+        - paragraph [ref=e61]:
+          - text: Feedback und Anmerkungen werden gerne
+          - link "per E-Mail" [ref=e62] [cursor=pointer]:
+            - /url: mailto:bernhard.oberreither@oeaw.ac.at
+          - text: entgegengenommen.
+      - button "Schließen" [ref=e64] [cursor=pointer]
+```
